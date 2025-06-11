@@ -1,0 +1,1 @@
+﻿V1.0 Pridėtas Master projektas, kuris laukia agent1 ir agent 2 pranešimo. Pridėtas agent1 ir agent2, kuris siunčia pranešimą Master į NamedPipeServerStream
