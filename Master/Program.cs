@@ -9,15 +9,18 @@ namespace Master
 
         static void Main(string[] args)
         {
-
+            // Nustatome procesoriaus branduolio, kuriame veiks ši programa, priskyrimą
             Process.GetCurrentProcess().ProcessorAffinity = (IntPtr)0x4;
 
+            //Gija duomenų gavimo iš agentų
             Thread t1 = new Thread(() => Listen("agent1"));
             Thread t2 = new Thread(() => Listen("agent2"));
 
+            // paleidžiame gijas
             t1.Start();
             t2.Start();
 
+            // laukiame, kol gijos baigs darbą
             t1.Join();
             t2.Join();
 
