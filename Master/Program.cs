@@ -25,8 +25,11 @@ namespace Master
             t1.Join();
             t2.Join();
 
+            // Sukuriame žodžių dažnių žodyną
+            var orderedWordCounts = wordIndex.OrderBy(kvp => kvp.Key).ToList();
+
             // Išvedame žodžių dažnius
-            foreach (var entry in wordIndex)
+            foreach (var entry in orderedWordCounts)
             {
                 Console.WriteLine(entry.Key + ":" + entry.Value);
             }
