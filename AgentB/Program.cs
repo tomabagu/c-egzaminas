@@ -59,14 +59,15 @@ namespace AgentB
             // iteruojame per visus .txt failus kataloge "files/"
             foreach (var file in Directory.GetFiles("files/", "*.txt"))
             {
+                // sukuriame žodžių dažnių žodyną, kuris bus naudojamas žodžių skaičiavimui, su parametru StringComparer.OrdinalIgnoreCase, kad būtų ignoruojama didžiųjų ir mažųjų raidžių skirtumas
                 var wordCounts = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
                 // skaitome failo turinį
                 var lines = File.ReadAllLines(file);
 
                 foreach (var line in lines)
                 {
-                    // padalijame eilutę į žodžius atskirtais tarpais
-                    var words = line.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
+                    // padalijame eilutę į žodžius atskiriant simbolius, StringSplitOptions.RemoveEmptyEntries pašalina tuščius žodžius
+                    var words = line.Split(new[] { ' ', '-', '!', '.', ':', '?', ',', '"' }, StringSplitOptions.RemoveEmptyEntries);
                     foreach (var word in words)
                     {
                         if (!string.IsNullOrWhiteSpace(word))
