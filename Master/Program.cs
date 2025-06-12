@@ -6,6 +6,7 @@ namespace Master
 {
     internal class Program
     {
+        static ConcurrentDictionary<string, int> wordIndex = new ConcurrentDictionary<string, int>();
 
         static void Main(string[] args)
         {
@@ -24,6 +25,13 @@ namespace Master
             t1.Join();
             t2.Join();
 
+            // Išvedame žodžių dažnius
+            foreach (var entry in wordIndex)
+            {
+                Console.WriteLine(entry.Key + ":" + entry.Value);
+            }
+            Console.ReadKey();
+
         }
 
         static void Listen(string pipeName)
@@ -35,9 +43,23 @@ namespace Master
             pipeServer.WaitForConnection();
             using var reader = new StreamReader(pipeServer);
             Console.WriteLine($"Connected to agent on pipe: {pipeName}");
-            Console.WriteLine(reader.ReadLine());
-            Console.ReadKey();
 
+            string line;
+            while ((line = reader.ReadLine()) != null)
+            {
+                if (line == "EOF")
+                {
+                    break;
+                }
+
+                var parts = line.Split(':');
+                if (parts.Length == 3)
+                {
+                    string key = $"{parts[0]}:{parts[1]}";
+                    int count = int.Parse(parts[2]);
+                    wordIndex.AddOrUpdate(key, count, (_, old) => old + count);
+                }
+            }
         }
     }
 }

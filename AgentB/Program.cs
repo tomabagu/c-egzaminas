@@ -36,7 +36,22 @@ namespace AgentB
             // sukuriame StreamWriter, kuris rašys į NamedPipe
             using var writer = new StreamWriter(pipeClient) { AutoFlush = true };
 
-            writer.WriteLine("test message from agent 2");
+            while (true)
+            {
+                // tikriname, ar yra žinučių eilėje
+                if (messageQueue.TryDequeue(out var message))
+                {
+                    // rašome žinutę į NamedPipe
+                    writer.WriteLine(message);
+                    // jei žinutė yra "EOF", nutraukiame ciklą
+                    if (message == "EOF") break;
+                }
+                else
+                {
+                    // jei eilė tuščia, palaukiame 100 ms prieš kitą patikrinimą
+                    Thread.Sleep(100);
+                }
+            }
         }
 
         static void ReadFiles()
@@ -56,7 +71,7 @@ namespace AgentB
                     {
                         if (!string.IsNullOrWhiteSpace(word))
 
-                            // skaičiuojame žodžių dažnį
+                            // skaičiuojame žodžių dažnį wordCounts[word] - žodis, wordCounts.GetValueOrDefault(word, 0) + 1 dažnis
                             wordCounts[word] = wordCounts.GetValueOrDefault(word, 0) + 1;
                     }
                 }
