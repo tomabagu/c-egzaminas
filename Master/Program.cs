@@ -7,15 +7,26 @@ namespace Master
     internal class Program
     {
         static ConcurrentDictionary<string, int> wordIndex = new ConcurrentDictionary<string, int>();
+        static string agent1Name = "agent1";
+        static string agent2Name = "agent2";
 
         static void Main(string[] args)
         {
             // Nustatome procesoriaus branduolio, kuriame veiks ši programa, priskyrimą
             Process.GetCurrentProcess().ProcessorAffinity = (IntPtr)0x4;
 
+
+            // Nustatome agentų vardus iš argumentų arba naudojame numatytuosius
+            if (args.Length > 1)
+            {
+                agent1Name = args[0];
+                agent2Name = args[1];
+
+            }
+
             //Gija duomenų gavimo iš agentų
-            Thread t1 = new Thread(() => Listen("agent1"));
-            Thread t2 = new Thread(() => Listen("agent2"));
+            Thread t1 = new Thread(() => Listen(agent1Name));
+            Thread t2 = new Thread(() => Listen(agent2Name));
 
             // paleidžiame gijas
             t1.Start();
@@ -25,8 +36,8 @@ namespace Master
             t1.Join();
             t2.Join();
 
-            // Sukuriame žodžių dažnių žodyną
-            var orderedWordCounts = wordIndex.OrderBy(kvp => kvp.Key).ToList();
+            // Sukuriame žodžių dažnių žodyną pagal dažnį mažėjimo tvarka
+            var orderedWordCounts = wordIndex.OrderByDescending(kvp => kvp.Value).ToList();
 
             // Išvedame žodžių dažnius
             foreach (var entry in orderedWordCounts)

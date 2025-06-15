@@ -4,3 +4,4 @@ V1.2 Pridėta daugiau duomenų ir txt failų testavimui
 V1.3 pridėtas duomenų perdavimas per NamedPipe į master, Master pridėtas gaunamų duomenų apdorojimas į ConcurrentDictionary<string, int> duomenų tipą ir duomenų išvedimas į konsolę
 V1.4 pridėti papildomi simboliai žodžių atskyrimui
 V1.5 pridėtas rikiavimas prieš atvaizduojant žodžių dažnius Master projekte
+V1.6 argumentų perdavimas agentui ir master projektui paleidimo metu. Pakoreguotas rikiavimas

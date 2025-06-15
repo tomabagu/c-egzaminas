@@ -8,8 +8,16 @@ namespace AgentA
     {
         static ConcurrentQueue<string> messageQueue = new ConcurrentQueue<string>();
         static string pipeName = "agent1";
+        static string filePath = "files/";
         static void Main(string[] args)
         {
+            // Nustatome NamedPipe pavadinimą ir failų katalogą iš argumentų arba naudojame numatytuosius
+            if (args.Length > 1)
+            {
+                pipeName = args[0];
+                filePath = args[1];
+
+            }
 
             // Nustatome procesoriaus branduolio, kuriame veiks ši programa, priskyrimą
             Process.GetCurrentProcess().ProcessorAffinity = (IntPtr)0x1;
@@ -57,7 +65,7 @@ namespace AgentA
         static void ReadFiles()
         {
             // iteruojame per visus .txt failus kataloge "files/"
-            foreach (var file in Directory.GetFiles("files/", "*.txt"))
+            foreach (var file in Directory.GetFiles(filePath, "*.txt"))
             {
                 // sukuriame žodžių dažnių žodyną, kuris bus naudojamas žodžių skaičiavimui, su parametru StringComparer.OrdinalIgnoreCase, kad būtų ignoruojama didžiųjų ir mažųjų raidžių skirtumas
                 var wordCounts = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);

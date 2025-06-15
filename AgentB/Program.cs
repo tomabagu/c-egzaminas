@@ -8,8 +8,16 @@ namespace AgentB
     {
         static ConcurrentQueue<string> messageQueue = new ConcurrentQueue<string>();
         static string pipeName = "agent2";
+        static string filePath = "files/";
         static void Main(string[] args)
         {
+            // Nustatome NamedPipe pavadinimą ir failų katalogą iš argumentų arba naudojame numatytuosius
+            if (args.Length > 1)
+            {
+                pipeName = args[0];
+                filePath = args[1];
+
+            }
 
             // Nustatome procesoriaus branduolio, kuriame veiks ši programa, priskyrimą
             Process.GetCurrentProcess().ProcessorAffinity = (IntPtr)0x2;
