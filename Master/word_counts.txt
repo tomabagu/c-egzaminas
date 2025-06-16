@@ -1,0 +1,2477 @@
+1.5ld.txt:0:195
+1.5ld.txt:*:54
+1.5ld.txt:TCP:38
+1_KT_Samprata, pagrindines_savokos (4).txt:ir:36
+1.5ld.txt:UDP:31
+1.5ld.txt:[:31
+1_KT_Samprata, pagrindines_savokos (4).txt:ms:27
+1.5ld.txt:]:27
+1_KT_Samprata, pagrindines_savokos (4).txt:*:24
+1_KT_Samprata, pagrindines_savokos (4).txt:į:24
+1.5ld.txt:LISTENING:23
+1_KT_Samprata, pagrindines_savokos (4).txt:IP:22
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklo:22
+1.5ld.txt:110:21
+1_KT_Samprata, pagrindines_savokos (4).txt:komp:20
+1.5ld.txt:168:20
+1.5ld.txt:192:20
+3. WLAN_teorija_ir_praktika.txt:ir:20
+1_KT_Samprata, pagrindines_savokos (4).txt:tai:19
+fileB1.txt:nunc:18
+fileB1.txt:In:18
+1_KT_Samprata, pagrindines_savokos (4).txt:t:17
+1.5ld.txt:443:16
+1.1ld_Sabuliene-Baguse.txt:Enabled:15
+fileB1.txt:a:15
+fileB1.txt:eget:15
+1_KT_Samprata, pagrindines_savokos (4).txt:lt:15
+fileB1.txt:mi:15
+1.5ld.txt:ESTABLISHED:15
+1_KT_Samprata, pagrindines_savokos (4).txt:iš:14
+3. WLAN_teorija_ir_praktika.txt:Wireless:14
+1_KT_Samprata, pagrindines_savokos (4).txt:DNS:14
+1_KT_Samprata, pagrindines_savokos (4).txt:adresas:13
+3_ld_pagalbine_medziaga.txt:t:13
+3_ld_pagalbine_medziaga.txt:):13
+fileB1.txt:nulla:12
+fileB1.txt:consectetur:12
+fileB1.txt:et:12
+1_KT_Samprata, pagrindines_savokos (4).txt:255:12
+1.1ld_Sabuliene-Baguse.txt:Yes:12
+fileB1.txt:sapien:12
+1_KT_Samprata, pagrindines_savokos (4).txt:0:12
+3_ld_pagalbine_medziaga.txt:sparta:11
+1_KT_Samprata, pagrindines_savokos (4).txt:219:11
+1_KT_Samprata, pagrindines_savokos (4).txt:Domenas:11
+3_ld_pagalbine_medziaga.txt:Tinklo:10
+3. WLAN_teorija_ir_praktika.txt:tinklo:10
+1_KT_Samprata, pagrindines_savokos (4).txt:1:10
+3_ld_pagalbine_medziaga.txt:802:10
+3. WLAN_teorija_ir_praktika.txt:arba:10
+1.1ld_Sabuliene-Baguse.txt:Media:10
+1_KT_Samprata, pagrindines_savokos (4).txt:):10
+fileB1.txt:rhoncus:9
+fileB1.txt:purus:9
+fileB1.txt:bibendum:9
+fileB1.txt:dignissim:9
+1_KT_Samprata, pagrindines_savokos (4).txt:arba:9
+3_ld_pagalbine_medziaga.txt:2:9
+3_ld_pagalbine_medziaga.txt:per:9
+3_ld_pagalbine_medziaga.txt:);:9
+fileB1.txt:tortor:9
+fileB1.txt:porttitor:9
+fileB1.txt:amet:9
+fileB1.txt:sit:9
+fileB1.txt:nec:9
+fileB1.txt:ut:9
+fileB1.txt:tincidunt:9
+fileB1.txt:turpis:9
+fileB1.txt:ac:9
+1_KT_Samprata, pagrindines_savokos (4).txt:Jei:9
+fileB1.txt:fermentum:9
+3. WLAN_teorija_ir_praktika.txt:WLAN:9
+fileB1.txt:nisl:9
+fileB1.txt:at:9
+fileB1.txt:ligula:9
+3_ld_pagalbine_medziaga.txt:4:9
+1_KT_Samprata, pagrindines_savokos (4).txt:kuris:9
+fileB1.txt:suscipit:9
+3_ld_pagalbine_medziaga.txt:ir:9
+fileB1.txt:urna:9
+fileB1.txt:massa:9
+fileB1.txt:erat:9
+1.1ld_Sabuliene-Baguse.txt:Address:8
+1_KT_Samprata, pagrindines_savokos (4).txt:A:8
+3. WLAN_teorija_ir_praktika.txt:>:8
+3. WLAN_teorija_ir_praktika.txt:tai:8
+1_KT_Samprata, pagrindines_savokos (4).txt:yra:8
+1_KT_Samprata, pagrindines_savokos (4).txt:serverio:8
+1_KT_Samprata, pagrindines_savokos (4).txt:193:8
+1_KT_Samprata, pagrindines_savokos (4).txt:log:8
+1.1ld_Sabuliene-Baguse.txt:Connection:8
+1.5ld.txt:5353:8
+1_KT_Samprata, pagrindines_savokos (4).txt:turi:8
+1_KT_Samprata, pagrindines_savokos (4).txt:ar:8
+3. WLAN_teorija_ir_praktika.txt:WAN:8
+1_KT_Samprata, pagrindines_savokos (4).txt:kan:8
+1_KT_Samprata, pagrindines_savokos (4).txt:2:8
+3_ld_pagalbine_medziaga.txt:Mbps:8
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuterio:8
+1_KT_Samprata, pagrindines_savokos (4).txt:76:8
+1.1ld_Sabuliene-Baguse.txt:adapter:8
+1_KT_Samprata, pagrindines_savokos (4).txt:su:8
+1.1ld_Sabuliene-Baguse.txt:Dns:8
+1_KT_Samprata, pagrindines_savokos (4).txt:4:8
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklas:8
+1_KT_Samprata, pagrindines_savokos (4).txt:kaukė:7
+1_KT_Samprata, pagrindines_savokos (4).txt:adr:7
+1_KT_Samprata, pagrindines_savokos (4).txt:klasės:7
+1_KT_Samprata, pagrindines_savokos (4).txt:IPv4:7
+3_ld_pagalbine_medziaga.txt:100:7
+1_KT_Samprata, pagrindines_savokos (4).txt:tinkle:7
+1_KT_Samprata, pagrindines_savokos (4).txt:;:7
+1_KT_Samprata, pagrindines_savokos (4).txt:naudojamas:7
+1_KT_Samprata, pagrindines_savokos (4).txt:adresų:7
+3. WLAN_teorija_ir_praktika.txt:);:7
+1_KT_Samprata, pagrindines_savokos (4).txt:6:7
+1_KT_Samprata, pagrindines_savokos (4).txt:naud:7
+1_KT_Samprata, pagrindines_savokos (4).txt:Pvz:7
+1.1ld_Sabuliene-Baguse.txt:DHCP:7
+1_KT_Samprata, pagrindines_savokos (4).txt:mano:7
+1_KT_Samprata, pagrindines_savokos (4).txt:adresą:7
+1_KT_Samprata, pagrindines_savokos (4).txt:komanda:7
+3_ld_pagalbine_medziaga.txt:;:7
+1.1ld_Sabuliene-Baguse.txt:Suffix:7
+3. WLAN_teorija_ir_praktika.txt:AP:7
+3_ld_pagalbine_medziaga.txt:5:7
+1_KT_Samprata, pagrindines_savokos (4).txt:per:6
+3. WLAN_teorija_ir_praktika.txt:Ghz:6
+3_ld_pagalbine_medziaga.txt:3:6
+fileB1.txt:eleifend:6
+fileB1.txt:Integer:6
+3_ld_pagalbine_medziaga.txt:Ethernet:6
+fileB1.txt:congue:6
+3. WLAN_teorija_ir_praktika.txt:SSID:6
+fileB1.txt:Vivamus:6
+1.1ld_Sabuliene-Baguse.txt:Ethernet:6
+fileB1.txt:Proin:6
+fileB1.txt:risus:6
+1_KT_Samprata, pagrindines_savokos (4).txt:l:6
+1_KT_Samprata, pagrindines_savokos (4).txt:tinkluose:6
+fileB1.txt:Lorem:6
+1_KT_Samprata, pagrindines_savokos (4).txt:Serveris:6
+1.1ld_Sabuliene-Baguse.txt:Autoconfiguration:6
+fileB1.txt:Phasellus:6
+fileB1.txt:est:6
+fileB2.txt:In:6
+1.5ld.txt:127:6
+fileB1.txt:Nam:6
+fileB1.txt:mauris:6
+fileB1.txt:dapibus:6
+fileB1.txt:sed:6
+fileB1.txt:eu:6
+3_ld_pagalbine_medziaga.txt:standartas:6
+fileB2.txt:nunc:6
+fileB1.txt:dolor:6
+1_KT_Samprata, pagrindines_savokos (4).txt:interneto:6
+fileB1.txt:porta:6
+fileB1.txt:laoreet:6
+1_KT_Samprata, pagrindines_savokos (4).txt:=:6
+3. WLAN_teorija_ir_praktika.txt:Access:6
+3. WLAN_teorija_ir_praktika.txt:LAN:6
+1.5ld.txt:1:6
+fileB1.txt:metus:6
+fileB1.txt:ante:6
+fileB1.txt:euismod:6
+1_KT_Samprata, pagrindines_savokos (4).txt:B:6
+fileB1.txt:non:6
+1_KT_Samprata, pagrindines_savokos (4).txt:domenas;:6
+1_KT_Samprata, pagrindines_savokos (4).txt:LAN:6
+fileB1.txt:Praesent:6
+1.1ld_Sabuliene-Baguse.txt:Description:6
+1.1ld_Sabuliene-Baguse.txt:specific:6
+fileB1.txt:elit:6
+fileB1.txt:volutpat:6
+fileB1.txt:leo:6
+1_KT_Samprata, pagrindines_savokos (4).txt:klasė:6
+fileB1.txt:vel:6
+fileB1.txt:Etiam:6
+fileB1.txt:lacus:6
+fileB1.txt:arcu:6
+fileB1.txt:eros:6
+fileB1.txt:interdum:6
+fileB1.txt:facilisis:6
+fileB1.txt:mattis:6
+1.1ld_Sabuliene-Baguse.txt:Physical:6
+1_KT_Samprata, pagrindines_savokos (4).txt:WWW:6
+3. WLAN_teorija_ir_praktika.txt:su:5
+1.1ld_Sabuliene-Baguse.txt:91:5
+3_ld_pagalbine_medziaga.txt:		802:5
+1_KT_Samprata, pagrindines_savokos (4).txt:DHCP:5
+1_KT_Samprata, pagrindines_savokos (4).txt:to:5
+3_ld_pagalbine_medziaga.txt:į:5
+3_ld_pagalbine_medziaga.txt:IEEE:5
+3. WLAN_teorija_ir_praktika.txt:802:5
+1_KT_Samprata, pagrindines_savokos (4).txt:netstat:5
+3. WLAN_teorija_ir_praktika.txt:Jei:5
+1_KT_Samprata, pagrindines_savokos (4).txt:prie:5
+3. WLAN_teorija_ir_praktika.txt:2:5
+1_KT_Samprata, pagrindines_savokos (4).txt:pašto:5
+1_KT_Samprata, pagrindines_savokos (4).txt:internetas):5
+fileB2.txt:mi:5
+1.5ld.txt:20:5
+3. WLAN_teorija_ir_praktika.txt:renkamės:5
+3. WLAN_teorija_ir_praktika.txt:11:5
+1.1ld_Sabuliene-Baguse.txt:State:5
+3_ld_pagalbine_medziaga.txt:Ghz:5
+fileB2.txt:a:5
+1_KT_Samprata, pagrindines_savokos (4).txt:org:5
+1.1ld_Sabuliene-Baguse.txt:0:5
+1_KT_Samprata, pagrindines_savokos (4).txt:H:5
+1_KT_Samprata, pagrindines_savokos (4).txt:potinklius:5
+1_KT_Samprata, pagrindines_savokos (4).txt:ku:5
+3_ld_pagalbine_medziaga.txt:arba:5
+1_KT_Samprata, pagrindines_savokos (4).txt:suj:5
+1.1ld_Sabuliene-Baguse.txt:disconnected:5
+3. WLAN_teorija_ir_praktika.txt:4:5
+1.1ld_Sabuliene-Baguse.txt:33:5
+3_ld_pagalbine_medziaga.txt:radijo:5
+1_KT_Samprata, pagrindines_savokos (4).txt:14:5
+fileB2.txt:eget:5
+1_KT_Samprata, pagrindines_savokos (4).txt:vieno:5
+1_KT_Samprata, pagrindines_savokos (4).txt:CMD:5
+fileB2.txt:et:4
+1_KT_Samprata, pagrindines_savokos (4).txt:valdo:4
+3. WLAN_teorija_ir_praktika.txt:Router:4
+1_KT_Samprata, pagrindines_savokos (4).txt:from:4
+3_ld_pagalbine_medziaga.txt:nešantis:4
+1.1ld_Sabuliene-Baguse.txt:Wireless:4
+1.1ld_Sabuliene-Baguse.txt:ED:4
+3. WLAN_teorija_ir_praktika.txt:Čia:4
+1_KT_Samprata, pagrindines_savokos (4).txt:	1):4
+1_KT_Samprata, pagrindines_savokos (4).txt:(ir:4
+3_ld_pagalbine_medziaga.txt:100base:4
+3. WLAN_teorija_ir_praktika.txt:):4
+1_KT_Samprata, pagrindines_savokos (4).txt:serveriai:4
+1_KT_Samprata, pagrindines_savokos (4).txt:static:4
+3. WLAN_teorija_ir_praktika.txt:derinimas:4
+3. WLAN_teorija_ir_praktika.txt:a:4
+3. WLAN_teorija_ir_praktika.txt:pasirinkti:4
+1_KT_Samprata, pagrindines_savokos (4).txt:jungia:4
+1_KT_Samprata, pagrindines_savokos (4).txt:PROTOKOLAS:4
+1_KT_Samprata, pagrindines_savokos (4).txt:naudojama:4
+1_KT_Samprata, pagrindines_savokos (4).txt:		Reply:4
+3. WLAN_teorija_ir_praktika.txt:naudojamas:4
+fileB2.txt:consectetur:4
+3. WLAN_teorija_ir_praktika.txt:nustatyti:4
+1_KT_Samprata, pagrindines_savokos (4).txt:	2):4
+1_KT_Samprata, pagrindines_savokos (4).txt:K:4
+3_ld_pagalbine_medziaga.txt:tx:4
+1_KT_Samprata, pagrindines_savokos (4).txt:nuomos:4
+3. WLAN_teorija_ir_praktika.txt:plokštę:4
+1_KT_Samprata, pagrindines_savokos (4).txt:pagal:4
+3. WLAN_teorija_ir_praktika.txt:dažnis:4
+1_KT_Samprata, pagrindines_savokos (4).txt:TTL=56:4
+3_ld_pagalbine_medziaga.txt:perdavimo:4
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuterių:4
+1_KT_Samprata, pagrindines_savokos (4).txt:bytes=32:4
+3. WLAN_teorija_ir_praktika.txt:derinimui:4
+3_ld_pagalbine_medziaga.txt:dažnis;:4
+1_KT_Samprata, pagrindines_savokos (4).txt:maršrutizatorius:4
+1_KT_Samprata, pagrindines_savokos (4).txt:as:4
+1_KT_Samprata, pagrindines_savokos (4).txt:paslaugą:4
+1.1ld_Sabuliene-Baguse.txt:168:4
+3. WLAN_teorija_ir_praktika.txt:1:4
+1.5ld.txt:1900:4
+3_ld_pagalbine_medziaga.txt:UTP:4
+1_KT_Samprata, pagrindines_savokos (4).txt:skirtas:4
+1_KT_Samprata, pagrindines_savokos (4).txt:	ping:4
+1.5ld.txt:52:4
+1_KT_Samprata, pagrindines_savokos (4).txt:41:4
+3_ld_pagalbine_medziaga.txt:Jei:4
+1_KT_Samprata, pagrindines_savokos (4).txt:signalą:4
+3. WLAN_teorija_ir_praktika.txt:prie:4
+3_ld_pagalbine_medziaga.txt:Duplex):4
+1_KT_Samprata, pagrindines_savokos (4).txt:nuo:4
+1_KT_Samprata, pagrindines_savokos (4).txt:Jis:4
+1_KT_Samprata, pagrindines_savokos (4).txt:schemoje:4
+1.1ld_Sabuliene-Baguse.txt:192:4
+3_ld_pagalbine_medziaga.txt:(Full:4
+fileB2.txt:sapien:4
+1_KT_Samprata, pagrindines_savokos (4).txt:Enabled:4
+1_KT_Samprata, pagrindines_savokos (4).txt:stiprina:4
+3_ld_pagalbine_medziaga.txt:tai:4
+1_KT_Samprata, pagrindines_savokos (4).txt:9:4
+1.1ld_Sabuliene-Baguse.txt:C4:4
+1.1ld_Sabuliene-Baguse.txt:1:4
+1_KT_Samprata, pagrindines_savokos (4).txt:	Pvz:4
+1.5ld.txt:99:4
+1_KT_Samprata, pagrindines_savokos (4).txt:WAN:4
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklus:4
+1_KT_Samprata, pagrindines_savokos (4).txt:lygm:4
+3_ld_pagalbine_medziaga.txt:(iki:4
+1_KT_Samprata, pagrindines_savokos (4).txt:domeną:4
+1_KT_Samprata, pagrindines_savokos (4).txt:kaip:4
+1.5ld.txt:1]:4
+1_KT_Samprata, pagrindines_savokos (4).txt:(Gateway):4
+3_ld_pagalbine_medziaga.txt:m):4
+1.5ld.txt:49664:4
+1_KT_Samprata, pagrindines_savokos (4).txt:190:4
+1.5ld.txt:40:4
+3_ld_pagalbine_medziaga.txt:ryšio:4
+fileB2.txt:nulla:4
+1_KT_Samprata, pagrindines_savokos (4).txt:paketą:3
+fileB1.txt:Cras:3
+fileB2.txt:urna:3
+1_KT_Samprata, pagrindines_savokos (4).txt:visi:3
+1.5ld.txt:139:3
+fileB1.txt:Vestibulum:3
+1_KT_Samprata, pagrindines_savokos (4).txt:kol:3
+fileB2.txt:ligula:3
+1_KT_Samprata, pagrindines_savokos (4).txt:N:3
+1.1ld_Sabuliene-Baguse.txt:255:3
+fileB1.txt:feugiat:3
+fileB2.txt:sit:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Address:3
+1.5ld.txt:13:3
+fileB1.txt:elementum:3
+fileB2.txt:erat:3
+fileB1.txt:imperdiet:3
+fileB2.txt:tincidunt:3
+1.1ld_Sabuliene-Baguse.txt:28:3
+1.1ld_Sabuliene-Baguse.txt:16:3
+1_KT_Samprata, pagrindines_savokos (4).txt:<1:3
+fileB2.txt:nec:3
+1_KT_Samprata, pagrindines_savokos (4).txt:PING:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Gw3:3
+fileB2.txt:ut:3
+1.1ld_Sabuliene-Baguse.txt:Fi:3
+1_KT_Samprata, pagrindines_savokos (4).txt:SMTP:3
+1_KT_Samprata, pagrindines_savokos (4).txt:5:3
+1_KT_Samprata, pagrindines_savokos (4).txt:17:3
+fileB2.txt:tortor:3
+3. WLAN_teorija_ir_praktika.txt:parametrus:3
+1.1ld_Sabuliene-Baguse.txt:Area:3
+3. WLAN_teorija_ir_praktika.txt:(Lietuvos:3
+fileB1.txt:vulputate:3
+fileB2.txt:massa:3
+1_KT_Samprata, pagrindines_savokos (4).txt:rinkinys:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Pasl:3
+1_KT_Samprata, pagrindines_savokos (4).txt:(el:3
+fileB1.txt:scelerisque:3
+3. WLAN_teorija_ir_praktika.txt:nes:3
+3. WLAN_teorija_ir_praktika.txt:t:3
+fileB2.txt:dignissim:3
+1_KT_Samprata, pagrindines_savokos (4).txt:slk:3
+fileB2.txt:amet:3
+fileB1.txt:adipiscing:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Pavyzdžiui:3
+fileB1.txt:Morbi:3
+3. WLAN_teorija_ir_praktika.txt:reikės:3
+1_KT_Samprata, pagrindines_savokos (4).txt:standartai:3
+fileB2.txt:ac:3
+fileB1.txt:faucibus:3
+1_KT_Samprata, pagrindines_savokos (4).txt:1):3
+1_KT_Samprata, pagrindines_savokos (4).txt:kitus:3
+fileB1.txt:aliquam:3
+fileB1.txt:pulvinar:3
+1_KT_Samprata, pagrindines_savokos (4).txt:peržiūra:3
+1_KT_Samprata, pagrindines_savokos (4).txt:POP3:3
+3_ld_pagalbine_medziaga.txt:Ports:3
+1_KT_Samprata, pagrindines_savokos (4).txt:siunčia:3
+fileB1.txt:iaculis:3
+fileB2.txt:at:3
+1_KT_Samprata, pagrindines_savokos (4).txt:svako:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Network):3
+3. WLAN_teorija_ir_praktika.txt:signalo:3
+fileB1.txt:convallis:3
+fileB1.txt:lacinia:3
+1_KT_Samprata, pagrindines_savokos (4).txt:153:3
+1_KT_Samprata, pagrindines_savokos (4).txt:vartų:3
+1_KT_Samprata, pagrindines_savokos (4).txt:saugus:3
+fileB1.txt:Quisque:3
+3. WLAN_teorija_ir_praktika.txt:jis:3
+1_KT_Samprata, pagrindines_savokos (4).txt:komutat:3
+1_KT_Samprata, pagrindines_savokos (4).txt:(kai:3
+1_KT_Samprata, pagrindines_savokos (4).txt:IMAP:3
+fileB1.txt:vehicula:3
+1_KT_Samprata, pagrindines_savokos (4).txt:lentelėje:3
+1_KT_Samprata, pagrindines_savokos (4).txt:sudaro:3
+3. WLAN_teorija_ir_praktika.txt:per:3
+1_KT_Samprata, pagrindines_savokos (4).txt:domenai:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Globaliuose:3
+3_ld_pagalbine_medziaga.txt:Duomenų:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Duomenų:3
+3_ld_pagalbine_medziaga.txt:paketų:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Area:3
+1.1ld_Sabuliene-Baguse.txt:LAN:3
+fileB2.txt:porttitor:3
+1_KT_Samprata, pagrindines_savokos (4).txt:iki:3
+1_KT_Samprata, pagrindines_savokos (4).txt:žymimas:3
+fileB1.txt:aliquet:3
+fileB2.txt:turpis:3
+fileB1.txt:viverra:3
+3. WLAN_teorija_ir_praktika.txt:atstovas:3
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuteris:3
+fileB1.txt:nisi:3
+1_KT_Samprata, pagrindines_savokos (4).txt:		LAN:3
+1_KT_Samprata, pagrindines_savokos (4).txt:adresu:3
+1_KT_Samprata, pagrindines_savokos (4).txt:kuriam:3
+1_KT_Samprata, pagrindines_savokos (4).txt:IPv6:3
+1_KT_Samprata, pagrindines_savokos (4).txt:y:3
+fileB1.txt:tellus:3
+3_ld_pagalbine_medziaga.txt:1:3
+3_ld_pagalbine_medziaga.txt:STP:3
+1_KT_Samprata, pagrindines_savokos (4).txt:								N:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Maršrut:3
+1_KT_Samprata, pagrindines_savokos (4).txt:būti:3
+fileB1.txt:pharetra:3
+fileB2.txt:fermentum:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Host:3
+1_KT_Samprata, pagrindines_savokos (4).txt:srautas:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Vietiniuose:3
+3_ld_pagalbine_medziaga.txt:y:3
+fileB1.txt:commodo:3
+1_KT_Samprata, pagrindines_savokos (4).txt:g:3
+3. WLAN_teorija_ir_praktika.txt:ar:3
+fileB1.txt:Duis:3
+fileB2.txt:rhoncus:3
+3. WLAN_teorija_ir_praktika.txt:nurodome:3
+1_KT_Samprata, pagrindines_savokos (4).txt:[193:3
+3_ld_pagalbine_medziaga.txt:portų:3
+1.1ld_Sabuliene-Baguse.txt:Wi:3
+fileB1.txt:consequat:3
+1.5ld.txt:120:3
+1_KT_Samprata, pagrindines_savokos (4).txt:kitą:3
+fileB1.txt:vitae:3
+1_KT_Samprata, pagrindines_savokos (4).txt:(angl:3
+1.1ld_Sabuliene-Baguse.txt:Local:3
+1_KT_Samprata, pagrindines_savokos (4).txt:adresas;:3
+3_ld_pagalbine_medziaga.txt:srauto:3
+3_ld_pagalbine_medziaga.txt:loginių:3
+fileB1.txt:maximus:3
+fileB1.txt:id:3
+1_KT_Samprata, pagrindines_savokos (4).txt:standartinė:3
+3. WLAN_teorija_ir_praktika.txt:5:3
+1_KT_Samprata, pagrindines_savokos (4).txt:internetą:3
+fileB1.txt:ex:3
+fileB1.txt:tempus:3
+1_KT_Samprata, pagrindines_savokos (4).txt:C:3
+1_KT_Samprata, pagrindines_savokos (4).txt:kas:3
+fileB1.txt:lobortis:3
+fileB1.txt:sagittis:3
+fileB1.txt:Fusce:3
+3_ld_pagalbine_medziaga.txt:pagal:3
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklą:3
+fileB1.txt:quis:3
+3_ld_pagalbine_medziaga.txt:Mbps/duplex:3
+fileB1.txt:egestas:3
+fileB1.txt:ipsum:3
+1_KT_Samprata, pagrindines_savokos (4).txt:forma:3
+1_KT_Samprata, pagrindines_savokos (4).txt:18:3
+fileB1.txt:augue:3
+fileB1.txt:tristique:3
+fileB1.txt:sollicitudin:3
+3. WLAN_teorija_ir_praktika.txt:bus:3
+3. WLAN_teorija_ir_praktika.txt:būti:3
+1_KT_Samprata, pagrindines_savokos (4).txt:6]:3
+fileB1.txt:neque:3
+1_KT_Samprata, pagrindines_savokos (4).txt:viet:3
+1_KT_Samprata, pagrindines_savokos (4).txt:tam:3
+fileB1.txt:pellentesque:3
+fileB1.txt:felis:3
+fileB1.txt:efficitur:3
+3. WLAN_teorija_ir_praktika.txt:Point:3
+1_KT_Samprata, pagrindines_savokos (4).txt:Suffix:3
+3. WLAN_teorija_ir_praktika.txt:Settings:3
+1_KT_Samprata, pagrindines_savokos (4).txt:potinklis:3
+fileB1.txt:libero:3
+1.5ld.txt:199:3
+fileB1.txt:gravida:3
+3. WLAN_teorija_ir_praktika.txt:reikia:3
+fileB1.txt:ultricies:3
+1_KT_Samprata, pagrindines_savokos (4).txt:po:3
+1_KT_Samprata, pagrindines_savokos (4).txt:o:3
+3. WLAN_teorija_ir_praktika.txt:Interface:3
+fileB2.txt:purus:3
+3. WLAN_teorija_ir_praktika.txt:kaip:3
+1.1ld_Sabuliene-Baguse.txt:04:3
+3. WLAN_teorija_ir_praktika.txt:kodas:3
+fileB1.txt:ultrices:3
+3. WLAN_teorija_ir_praktika.txt:neš:3
+fileB1.txt:ullamcorper:3
+3_ld_pagalbine_medziaga.txt:protokolas:3
+1_KT_Samprata, pagrindines_savokos (4).txt:mazgo:3
+1_KT_Samprata, pagrindines_savokos (4).txt:kai:3
+3. WLAN_teorija_ir_praktika.txt:WEP:3
+1_KT_Samprata, pagrindines_savokos (4).txt:	ipconfig:3
+fileB1.txt:sodales:3
+fileB1.txt:magna:3
+3_ld_pagalbine_medziaga.txt:10BASE:3
+fileB2.txt:bibendum:3
+fileB1.txt:Donec:3
+1_KT_Samprata, pagrindines_savokos (4).txt:3:3
+3. WLAN_teorija_ir_praktika.txt:Gali:3
+1_KT_Samprata, pagrindines_savokos (4).txt:perduoda:3
+1_KT_Samprata, pagrindines_savokos (4).txt:plokštės:3
+fileB2.txt:suscipit:3
+3. WLAN_teorija_ir_praktika.txt:techn:3
+1_KT_Samprata, pagrindines_savokos (4).txt:16:3
+1_KT_Samprata, pagrindines_savokos (4).txt:);:3
+3. WLAN_teorija_ir_praktika.txt:yra:3
+fileB2.txt:nisl:3
+3_ld_pagalbine_medziaga.txt:lygmens:2
+1.1ld_Sabuliene-Baguse.txt:No:2
+1_KT_Samprata, pagrindines_savokos (4).txt:time=18ms:2
+fileB2.txt:laoreet:2
+1_KT_Samprata, pagrindines_savokos (4).txt:(tinklo:2
+1_KT_Samprata, pagrindines_savokos (4).txt:(router):2
+3. WLAN_teorija_ir_praktika.txt:(angl:2
+3_ld_pagalbine_medziaga.txt:(OSI:2
+3. WLAN_teorija_ir_praktika.txt:	2:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Local:2
+3. WLAN_teorija_ir_praktika.txt:Port:2
+1_KT_Samprata, pagrindines_savokos (4).txt:paketas:2
+1_KT_Samprata, pagrindines_savokos (4).txt:priev:2
+1_KT_Samprata, pagrindines_savokos (4).txt:>:2
+1_KT_Samprata, pagrindines_savokos (4).txt:406:2
+3_ld_pagalbine_medziaga.txt:12:2
+1.1ld_Sabuliene-Baguse.txt:Microsoft:2
+1_KT_Samprata, pagrindines_savokos (4).txt:jų:2
+fileB2.txt:lacus:2
+3_ld_pagalbine_medziaga.txt:Flow:2
+3_ld_pagalbine_medziaga.txt:(QoS):2
+1_KT_Samprata, pagrindines_savokos (4).txt:maršrutų:2
+3_ld_pagalbine_medziaga.txt:įranga:2
+3. WLAN_teorija_ir_praktika.txt:kitos:2
+3. WLAN_teorija_ir_praktika.txt:komutatoriaus:2
+1.1ld_Sabuliene-Baguse.txt:d:2
+1_KT_Samprata, pagrindines_savokos (4).txt:15:2
+1.5ld.txt:49668:2
+1.5ld.txt:111:2
+1.1ld_Sabuliene-Baguse.txt:00:2
+1_KT_Samprata, pagrindines_savokos (4).txt:įmonės:2
+1.5ld.txt:243:2
+1_KT_Samprata, pagrindines_savokos (4).txt:vartai:2
+1.5ld.txt:c67e:2
+3. WLAN_teorija_ir_praktika.txt:	3:2
+1_KT_Samprata, pagrindines_savokos (4).txt:bitai:2
+3. WLAN_teorija_ir_praktika.txt:DHCP:2
+3_ld_pagalbine_medziaga.txt:sk:2
+1_KT_Samprata, pagrindines_savokos (4).txt:159:2
+1.1ld_Sabuliene-Baguse.txt:F4:2
+3_ld_pagalbine_medziaga.txt:11:2
+3. WLAN_teorija_ir_praktika.txt:jį:2
+1_KT_Samprata, pagrindines_savokos (4).txt:metu:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Windows:2
+3_ld_pagalbine_medziaga.txt:EIA/TIA:2
+fileB2.txt:arcu:2
+3_ld_pagalbine_medziaga.txt:protokolai:2
+1.5ld.txt:49665:2
+1.5ld.txt:146:2
+3. WLAN_teorija_ir_praktika.txt:daugiausiai:2
+1_KT_Samprata, pagrindines_savokos (4).txt:gavėjo:2
+1_KT_Samprata, pagrindines_savokos (4).txt:vietinis:2
+3. WLAN_teorija_ir_praktika.txt:PSK:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Telnet:2
+3_ld_pagalbine_medziaga.txt:MB:2
+1_KT_Samprata, pagrindines_savokos (4).txt:254]:2
+1_KT_Samprata, pagrindines_savokos (4).txt:pat:2
+fileB2.txt:mauris:2
+3. WLAN_teorija_ir_praktika.txt:y:2
+3_ld_pagalbine_medziaga.txt:paprastas:2
+3_ld_pagalbine_medziaga.txt:of:2
+1_KT_Samprata, pagrindines_savokos (4).txt:128:2
+1_KT_Samprata, pagrindines_savokos (4).txt:tinkl:2
+3. WLAN_teorija_ir_praktika.txt:dviejų:2
+fileB2.txt:non:2
+1_KT_Samprata, pagrindines_savokos (4).txt:adresus:2
+3_ld_pagalbine_medziaga.txt:korpusas:2
+3_ld_pagalbine_medziaga.txt:iš:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Gw2:2
+1_KT_Samprata, pagrindines_savokos (4).txt:179:2
+3. WLAN_teorija_ir_praktika.txt:keisti:2
+3_ld_pagalbine_medziaga.txt:saugos:2
+3_ld_pagalbine_medziaga.txt:komutatoriaus:2
+3_ld_pagalbine_medziaga.txt:adresų:2
+1_KT_Samprata, pagrindines_savokos (4).txt:skaičius:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Ethernet:2
+1_KT_Samprata, pagrindines_savokos (4).txt:stulpelis:2
+3_ld_pagalbine_medziaga.txt:mount:2
+1_KT_Samprata, pagrindines_savokos (4).txt:vardas:2
+1.5ld.txt:49667:2
+3. WLAN_teorija_ir_praktika.txt:config:2
+1_KT_Samprata, pagrindines_savokos (4).txt:127:2
+1_KT_Samprata, pagrindines_savokos (4).txt:402:2
+1.1ld_Sabuliene-Baguse.txt:2:2
+3. WLAN_teorija_ir_praktika.txt:Router):2
+3. WLAN_teorija_ir_praktika.txt:KOrtelė:2
+3. WLAN_teorija_ir_praktika.txt:Mezon:2
+1.5ld.txt:50088:2
+1.5ld.txt:Address:2
+1.5ld.txt:[fe80:2
+3_ld_pagalbine_medziaga.txt:1000:2
+3. WLAN_teorija_ir_praktika.txt:ip:2
+1_KT_Samprata, pagrindines_savokos (4).txt:/all:2
+3_ld_pagalbine_medziaga.txt:eilę:2
+fileB2.txt:euismod:2
+3. WLAN_teorija_ir_praktika.txt:įvedamas:2
+1_KT_Samprata, pagrindines_savokos (4).txt:apr:2
+3. WLAN_teorija_ir_praktika.txt:Derinant:2
+fileB2.txt:congue:2
+fileB2.txt:facilisis:2
+fileB2.txt:metus:2
+1.1ld_Sabuliene-Baguse.txt:01:2
+1_KT_Samprata, pagrindines_savokos (4).txt:telecom:2
+3_ld_pagalbine_medziaga.txt:108Mbps:2
+3_ld_pagalbine_medziaga.txt:0:2
+fileB2.txt:Praesent:2
+3_ld_pagalbine_medziaga.txt:perd:2
+3_ld_pagalbine_medziaga.txt:atveju:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Connection:2
+fileB2.txt:leo:2
+1_KT_Samprata, pagrindines_savokos (4).txt:2):2
+1.1ld_Sabuliene-Baguse.txt:Lease:2
+1.5ld.txt:62605:2
+3. WLAN_teorija_ir_praktika.txt:kompiuterius:2
+1.1ld_Sabuliene-Baguse.txt:BF:2
+1.5ld.txt:49666:2
+3_ld_pagalbine_medziaga.txt:1x:2
+fileB2.txt:Lorem:2
+fileB2.txt:vel:2
+1_KT_Samprata, pagrindines_savokos (4).txt:transportuoti:2
+3. WLAN_teorija_ir_praktika.txt:address:2
+1_KT_Samprata, pagrindines_savokos (4).txt:ą:2
+fileB2.txt:mattis:2
+1.1ld_Sabuliene-Baguse.txt:Direct:2
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuterį:2
+1_KT_Samprata, pagrindines_savokos (4).txt:duomenys:2
+3. WLAN_teorija_ir_praktika.txt:galima:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Unicast:2
+1.5ld.txt:7680:2
+1_KT_Samprata, pagrindines_savokos (4).txt:213:2
+3_ld_pagalbine_medziaga.txt:75:2
+1_KT_Samprata, pagrindines_savokos (4).txt:168:2
+fileB2.txt:elit:2
+3_ld_pagalbine_medziaga.txt:568:2
+1.5ld.txt:218:2
+3. WLAN_teorija_ir_praktika.txt:0:2
+3. WLAN_teorija_ir_praktika.txt:Atidarome:2
+3_ld_pagalbine_medziaga.txt:garso:2
+1_KT_Samprata, pagrindines_savokos (4).txt:	4):2
+1_KT_Samprata, pagrindines_savokos (4).txt:pirmas:2
+3. WLAN_teorija_ir_praktika.txt:turi:2
+1_KT_Samprata, pagrindines_savokos (4).txt:gali:2
+1_KT_Samprata, pagrindines_savokos (4).txt:priklausau:2
+1_KT_Samprata, pagrindines_savokos (4).txt:skaitymui:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Kompiuteriui:2
+1_KT_Samprata, pagrindines_savokos (4).txt:apjungia:2
+3_ld_pagalbine_medziaga.txt:maršrutai:2
+3_ld_pagalbine_medziaga.txt:(tel:2
+1.1ld_Sabuliene-Baguse.txt:penktadienis:2
+3. WLAN_teorija_ir_praktika.txt:klientus:2
+1_KT_Samprata, pagrindines_savokos (4).txt:taisyklės:2
+3_ld_pagalbine_medziaga.txt:mont:2
+1_KT_Samprata, pagrindines_savokos (4).txt:10:2
+3. WLAN_teorija_ir_praktika.txt:;:2
+1_KT_Samprata, pagrindines_savokos (4).txt:aš:2
+fileB2.txt:eros:2
+1.1ld_Sabuliene-Baguse.txt:DHCPv6:2
+fileB2.txt:dolor:2
+1.5ld.txt:58559:2
+fileB2.txt:Etiam:2
+3_ld_pagalbine_medziaga.txt:QoS:2
+1_KT_Samprata, pagrindines_savokos (4).txt:LitNet:2
+1_KT_Samprata, pagrindines_savokos (4).txt:atvirkščiai:2
+3_ld_pagalbine_medziaga.txt:Quality:2
+1_KT_Samprata, pagrindines_savokos (4).txt:transporto:2
+1_KT_Samprata, pagrindines_savokos (4).txt:vart:2
+1_KT_Samprata, pagrindines_savokos (4).txt:laiškų:2
+3_ld_pagalbine_medziaga.txt:data:2
+fileB2.txt:risus:2
+1_KT_Samprata, pagrindines_savokos (4).txt:158:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Paprastai:2
+1_KT_Samprata, pagrindines_savokos (4).txt:komandos:2
+3. WLAN_teorija_ir_praktika.txt:mazgo:2
+3. WLAN_teorija_ir_praktika.txt:kortelę:2
+1_KT_Samprata, pagrindines_savokos (4).txt:apima:2
+1_KT_Samprata, pagrindines_savokos (4).txt:ports:2
+1_KT_Samprata, pagrindines_savokos (4).txt:	3):2
+3. WLAN_teorija_ir_praktika.txt:kodavimą:2
+1_KT_Samprata, pagrindines_savokos (4).txt:67:2
+3. WLAN_teorija_ir_praktika.txt:standartai:2
+3. WLAN_teorija_ir_praktika.txt:kitais:2
+1.5ld.txt:59a9:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Name:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Domenus:2
+3_ld_pagalbine_medziaga.txt:Host:2
+3. WLAN_teorija_ir_praktika.txt:	1:2
+1_KT_Samprata, pagrindines_savokos (4).txt:802:2
+1.1ld_Sabuliene-Baguse.txt:98:2
+3. WLAN_teorija_ir_praktika.txt:po:2
+1_KT_Samprata, pagrindines_savokos (4).txt:schemos:2
+1.1ld_Sabuliene-Baguse.txt:45:2
+1.1ld_Sabuliene-Baguse.txt:FA:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Dažniausiai:2
+3. WLAN_teorija_ir_praktika.txt:apsaugos:2
+1.5ld.txt:135:2
+1.5ld.txt:49670:2
+1_KT_Samprata, pagrindines_savokos (4).txt:serverį:2
+fileB2.txt:Integer:2
+1_KT_Samprata, pagrindines_savokos (4).txt:of:2
+1_KT_Samprata, pagrindines_savokos (4).txt:grupė:2
+3. WLAN_teorija_ir_praktika.txt:g:2
+3. WLAN_teorija_ir_praktika.txt:(nustatytas:2
+1_KT_Samprata, pagrindines_savokos (4).txt:jį:2
+1_KT_Samprata, pagrindines_savokos (4).txt:juos:2
+3_ld_pagalbine_medziaga.txt:(802:2
+fileB2.txt:porta:2
+1_KT_Samprata, pagrindines_savokos (4).txt:psl:2
+fileB2.txt:Phasellus:2
+1_KT_Samprata, pagrindines_savokos (4).txt:	5):2
+1_KT_Samprata, pagrindines_savokos (4).txt:HTTPS:2
+3. WLAN_teorija_ir_praktika.txt:o:2
+3_ld_pagalbine_medziaga.txt:—:2
+1_KT_Samprata, pagrindines_savokos (4).txt:11:2
+3_ld_pagalbine_medziaga.txt:kategorijos:2
+1_KT_Samprata, pagrindines_savokos (4).txt:ji:2
+3. WLAN_teorija_ir_praktika.txt:kodavimas:2
+1.1ld_Sabuliene-Baguse.txt:Connection*:2
+1_KT_Samprata, pagrindines_savokos (4).txt:skaitine:2
+1.5ld.txt:10:2
+3. WLAN_teorija_ir_praktika.txt:adresą:2
+3. WLAN_teorija_ir_praktika.txt:vytos:2
+3. WLAN_teorija_ir_praktika.txt:DSL:2
+3_ld_pagalbine_medziaga.txt:dažniausiai:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Control:2
+1_KT_Samprata, pagrindines_savokos (4).txt:galima:2
+3. WLAN_teorija_ir_praktika.txt:	4:2
+3. WLAN_teorija_ir_praktika.txt:Key:2
+3. WLAN_teorija_ir_praktika.txt:įdėti:2
+1_KT_Samprata, pagrindines_savokos (4).txt:8:2
+1.5ld.txt:151:2
+1_KT_Samprata, pagrindines_savokos (4).txt:rūšių:2
+1_KT_Samprata, pagrindines_savokos (4).txt:įranga:2
+3. WLAN_teorija_ir_praktika.txt:rinktis:2
+1.5ld.txt:54804:2
+3_ld_pagalbine_medziaga.txt:=:2
+1.5ld.txt:107:2
+3_ld_pagalbine_medziaga.txt:Service:2
+1_KT_Samprata, pagrindines_savokos (4).txt:TRACERT:2
+1_KT_Samprata, pagrindines_savokos (4).txt:taško:2
+1_KT_Samprata, pagrindines_savokos (4).txt:komercinės:2
+1_KT_Samprata, pagrindines_savokos (4).txt:mazgams:2
+1_KT_Samprata, pagrindines_savokos (4).txt:protokolus:2
+1_KT_Samprata, pagrindines_savokos (4).txt:klaidų:2
+3. WLAN_teorija_ir_praktika.txt:geriau:2
+1_KT_Samprata, pagrindines_savokos (4).txt:wait:2
+3. WLAN_teorija_ir_praktika.txt:WPA:2
+1_KT_Samprata, pagrindines_savokos (4).txt:apie:2
+1_KT_Samprata, pagrindines_savokos (4).txt:13:2
+1_KT_Samprata, pagrindines_savokos (4).txt:tikrinimas:2
+3. WLAN_teorija_ir_praktika.txt:derinimo:2
+3. WLAN_teorija_ir_praktika.txt:kuris:2
+3. WLAN_teorija_ir_praktika.txt:standartą:2
+3. WLAN_teorija_ir_praktika.txt:to:2
+3_ld_pagalbine_medziaga.txt:jungtis:2
+fileB2.txt:Proin:2
+3. WLAN_teorija_ir_praktika.txt:kompiuterio:2
+1_KT_Samprata, pagrindines_savokos (4).txt:zebra:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Gw1:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Paslaugų:2
+fileB2.txt:Vivamus:2
+1_KT_Samprata, pagrindines_savokos (4).txt:vu:2
+1_KT_Samprata, pagrindines_savokos (4).txt:koks:2
+1_KT_Samprata, pagrindines_savokos (4).txt:MAC:2
+3_ld_pagalbine_medziaga.txt:dažnis:2
+3. WLAN_teorija_ir_praktika.txt:6:2
+1_KT_Samprata, pagrindines_savokos (4).txt:reikmėms:2
+3_ld_pagalbine_medziaga.txt:proc:2
+3_ld_pagalbine_medziaga.txt:IP:2
+3. WLAN_teorija_ir_praktika.txt:radijo:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Tada:2
+fileB2.txt:interdum:2
+1_KT_Samprata, pagrindines_savokos (4).txt:30:2
+1_KT_Samprata, pagrindines_savokos (4).txt:du:2
+1.1ld_Sabuliene-Baguse.txt:9B:2
+3. WLAN_teorija_ir_praktika.txt:tinklais):2
+1.5ld.txt:123:2
+3. WLAN_teorija_ir_praktika.txt:n:2
+1.1ld_Sabuliene-Baguse.txt:m:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Broadcast:2
+3_ld_pagalbine_medziaga.txt:54:2
+1.1ld_Sabuliene-Baguse.txt:Intel(R):2
+1.5ld.txt:bd3c:2
+1.1ld_Sabuliene-Baguse.txt:Bluetooth:2
+1.5ld.txt:136:2
+1_KT_Samprata, pagrindines_savokos (4).txt:taip:2
+fileB2.txt:est:2
+3. WLAN_teorija_ir_praktika.txt:Rekomenduojama:2
+1_KT_Samprata, pagrindines_savokos (4).txt:129:2
+3. WLAN_teorija_ir_praktika.txt:belaidžių:2
+1_KT_Samprata, pagrindines_savokos (4).txt:prisijungs:2
+1_KT_Samprata, pagrindines_savokos (4).txt:135:2
+3_ld_pagalbine_medziaga.txt:numerius:2
+1_KT_Samprata, pagrindines_savokos (4).txt:D:2
+1_KT_Samprata, pagrindines_savokos (4).txt:25:2
+1_KT_Samprata, pagrindines_savokos (4).txt:naudojami:2
+1_KT_Samprata, pagrindines_savokos (4).txt:nesaugus:2
+1_KT_Samprata, pagrindines_savokos (4).txt:[213:2
+1_KT_Samprata, pagrindines_savokos (4).txt:171:2
+3. WLAN_teorija_ir_praktika.txt:todėl:2
+3_ld_pagalbine_medziaga.txt:be:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Tinklai:2
+1.5ld.txt:5355:2
+1_KT_Samprata, pagrindines_savokos (4).txt:prisijungimas):2
+3_ld_pagalbine_medziaga.txt:Kabeliai:2
+3_ld_pagalbine_medziaga.txt:nustato:2
+1.1ld_Sabuliene-Baguse.txt:Virtual:2
+1_KT_Samprata, pagrindines_savokos (4).txt:kur:2
+3_ld_pagalbine_medziaga.txt:maitinimas:2
+fileB2.txt:Nam:2
+fileB2.txt:volutpat:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Maximum:2
+1_KT_Samprata, pagrindines_savokos (4).txt:duomenis:2
+3_ld_pagalbine_medziaga.txt:layer):2
+3_ld_pagalbine_medziaga.txt:(100):2
+3_ld_pagalbine_medziaga.txt:vieną/daug:2
+1_KT_Samprata, pagrindines_savokos (4).txt:E:2
+1.5ld.txt:8421%17]:2
+fileB2.txt:sed:2
+3_ld_pagalbine_medziaga.txt:/:2
+3_ld_pagalbine_medziaga.txt:sauga:2
+1_KT_Samprata, pagrindines_savokos (4).txt:(nutolęs:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Google:2
+1_KT_Samprata, pagrindines_savokos (4).txt:ilgio:2
+1_KT_Samprata, pagrindines_savokos (4).txt:61:2
+3_ld_pagalbine_medziaga.txt:yra:2
+1_KT_Samprata, pagrindines_savokos (4).txt:link:2
+1_KT_Samprata, pagrindines_savokos (4).txt:tas:2
+1.5ld.txt:445:2
+1_KT_Samprata, pagrindines_savokos (4).txt:19:2
+1_KT_Samprata, pagrindines_savokos (4).txt:80:2
+3. WLAN_teorija_ir_praktika.txt:pavadinimą;:2
+fileB2.txt:eleifend:2
+3. WLAN_teorija_ir_praktika.txt:poros:2
+fileB2.txt:eu:2
+1_KT_Samprata, pagrindines_savokos (4).txt:eil:2
+3_ld_pagalbine_medziaga.txt:8:2
+3. WLAN_teorija_ir_praktika.txt:Ethernet:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Protocol):2
+1.1ld_Sabuliene-Baguse.txt:IP:2
+3_ld_pagalbine_medziaga.txt:vaizdo:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Standartas:2
+3_ld_pagalbine_medziaga.txt:control:2
+3. WLAN_teorija_ir_praktika.txt:buti:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Naudojamos:2
+3_ld_pagalbine_medziaga.txt:įr:2
+1_KT_Samprata, pagrindines_savokos (4).txt:pastato:2
+1.1ld_Sabuliene-Baguse.txt:vasario:2
+3. WLAN_teorija_ir_praktika.txt:antenomis):2
+3_ld_pagalbine_medziaga.txt:apie:2
+1_KT_Samprata, pagrindines_savokos (4).txt:Transp:2
+3_ld_pagalbine_medziaga.txt:LAN:2
+1_KT_Samprata, pagrindines_savokos (4).txt:laukia:2
+3_ld_pagalbine_medziaga.txt:WAN:2
+fileB2.txt:ante:2
+fileB2.txt:dapibus:2
+1.1ld_Sabuliene-Baguse.txt:6D:2
+1_KT_Samprata, pagrindines_savokos (4).txt:SSH:2
+1_KT_Samprata, pagrindines_savokos (4).txt:serveryje:2
+1_KT_Samprata, pagrindines_savokos (4).txt:automatiškai:2
+1.1ld_Sabuliene-Baguse.txt:2025:2
+3_ld_pagalbine_medziaga.txt:greitį:2
+1_KT_Samprata, pagrindines_savokos (4).txt:dar:2
+1_KT_Samprata, pagrindines_savokos (4).txt:finansinėm:1
+3. WLAN_teorija_ir_praktika.txt:		Internet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(failų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:18ms:1
+3. WLAN_teorija_ir_praktika.txt:(yra):1
+1_KT_Samprata, pagrindines_savokos (4).txt:struktūra);:1
+3. WLAN_teorija_ir_praktika.txt:kabeliu):1
+1_KT_Samprata, pagrindines_savokos (4).txt:17ms:1
+3. WLAN_teorija_ir_praktika.txt:tik:1
+3. WLAN_teorija_ir_praktika.txt:darbo:1
+3_ld_pagalbine_medziaga.txt:rack:1
+3_ld_pagalbine_medziaga.txt:gijos:1
+3. WLAN_teorija_ir_praktika.txt:išorinę:1
+1.1ld_Sabuliene-Baguse.txt:Controller:1
+3_ld_pagalbine_medziaga.txt:palaikymas:1
+3. WLAN_teorija_ir_praktika.txt:įrenginys:1
+3_ld_pagalbine_medziaga.txt:cat:1
+3_ld_pagalbine_medziaga.txt:liniją:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kanalai:1
+3. WLAN_teorija_ir_praktika.txt:	WEP:1
+3_ld_pagalbine_medziaga.txt:dauginti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:82:1
+3_ld_pagalbine_medziaga.txt:žymėjimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atsisiun:1
+fileB1.txt:testas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:/tikr:1
+fileB2.txt:Donec:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Loginėje:1
+3_ld_pagalbine_medziaga.txt:garsas/vaizdas:1
+3_ld_pagalbine_medziaga.txt:pralaida:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Frame:1
+1_KT_Samprata, pagrindines_savokos (4).txt:dviejų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Default:1
+3_ld_pagalbine_medziaga.txt:FastEthernet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	21/20:1
+1.1ld_Sabuliene-Baguse.txt:Tcpip:1
+1.1ld_Sabuliene-Baguse.txt:Client:1
+3_ld_pagalbine_medziaga.txt:Fiber:1
+1_KT_Samprata, pagrindines_savokos (4).txt:jungiu:1
+3_ld_pagalbine_medziaga.txt:RIP/OSPF/IGRP/EIGRP/:1
+3. WLAN_teorija_ir_praktika.txt:stiklas:1
+3_ld_pagalbine_medziaga.txt:PCI:1
+1_KT_Samprata, pagrindines_savokos (4).txt:radijo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Gateway:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kiekvieno:1
+3_ld_pagalbine_medziaga.txt:(router):1
+1_KT_Samprata, pagrindines_savokos (4).txt:kontrolės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:saugyklos:1
+fileB1.txt:�virblis:1
+3_ld_pagalbine_medziaga.txt:IP;:1
+3_ld_pagalbine_medziaga.txt:tinkluose:1
+3_ld_pagalbine_medziaga.txt:laikinam:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įjungus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Pris:1
+3_ld_pagalbine_medziaga.txt:tikro:1
+1_KT_Samprata, pagrindines_savokos (4).txt:apibūdinimai:1
+fileB2.txt:tempus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:standartizuotą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:22ms:1
+1.5ld.txt:236:1
+1_KT_Samprata, pagrindines_savokos (4).txt:33:1
+3. WLAN_teorija_ir_praktika.txt:dinaminis:1
+3_ld_pagalbine_medziaga.txt:užtikrinimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kaukę:1
+3. WLAN_teorija_ir_praktika.txt:PVZ:1
+fileB2.txt:Morbi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kita:1
+1_KT_Samprata, pagrindines_savokos (4).txt:parametrus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tikrinmui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:žymimos:1
+3_ld_pagalbine_medziaga.txt:3u:1
+1_KT_Samprata, pagrindines_savokos (4).txt:statistics:1
+fileB2.txt:tristique:1
+1_KT_Samprata, pagrindines_savokos (4).txt:keliauja:1
+3_ld_pagalbine_medziaga.txt:koduojant:1
+1_KT_Samprata, pagrindines_savokos (4).txt:perdavimui:1
+3. WLAN_teorija_ir_praktika.txt:>settings:1
+1_KT_Samprata, pagrindines_savokos (4).txt:karto:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(6ž:1
+3. WLAN_teorija_ir_praktika.txt:populiari:1
+3. WLAN_teorija_ir_praktika.txt:atveju:1
+1_KT_Samprata, pagrindines_savokos (4).txt:televizija:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	1:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prisij:1
+3. WLAN_teorija_ir_praktika.txt:Channel:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kontrolę;:1
+3_ld_pagalbine_medziaga.txt:(žroughput);:1
+3_ld_pagalbine_medziaga.txt:Eternet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Šiu:1
+3_ld_pagalbine_medziaga.txt:paslauga):1
+3. WLAN_teorija_ir_praktika.txt:kas:1
+3. WLAN_teorija_ir_praktika.txt:tinklui:1
+3_ld_pagalbine_medziaga.txt:žiedas:1
+3. WLAN_teorija_ir_praktika.txt:tiekiamas:1
+3_ld_pagalbine_medziaga.txt:Mbps(Half:1
+3. WLAN_teorija_ir_praktika.txt:saugus):1
+1_KT_Samprata, pagrindines_savokos (4).txt:stotis;:1
+3. WLAN_teorija_ir_praktika.txt:schemos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:būdais:1
+3_ld_pagalbine_medziaga.txt:garsas/vaizdas;:1
+3. WLAN_teorija_ir_praktika.txt:(pirma:1
+3. WLAN_teorija_ir_praktika.txt:(as:1
+3_ld_pagalbine_medziaga.txt:NAT:1
+1_KT_Samprata, pagrindines_savokos (4).txt:4B):1
+1.5ld.txt:50671:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(kol:1
+3. WLAN_teorija_ir_praktika.txt:nustatymai:1
+3_ld_pagalbine_medziaga.txt:užblokuoti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išduoda:1
+3. WLAN_teorija_ir_praktika.txt:3:1
+3_ld_pagalbine_medziaga.txt:galutinę:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laikškų:1
+3. WLAN_teorija_ir_praktika.txt:Optika:1
+3. WLAN_teorija_ir_praktika.txt:kurioje:1
+1_KT_Samprata, pagrindines_savokos (4).txt:peduodamas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ieško:1
+3_ld_pagalbine_medziaga.txt:11b:1
+3_ld_pagalbine_medziaga.txt:SmartNet/Managed:1
+3. WLAN_teorija_ir_praktika.txt:linija(DSL):1
+3. WLAN_teorija_ir_praktika.txt:paslaugas:1
+3_ld_pagalbine_medziaga.txt:mobilios:1
+1_KT_Samprata, pagrindines_savokos (4).txt:lin:1
+fileB2.txt:ultricies:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įkrovos:1
+3_ld_pagalbine_medziaga.txt:5MB:1
+3. WLAN_teorija_ir_praktika.txt:kanals:1
+3_ld_pagalbine_medziaga.txt:skirsto:1
+3_ld_pagalbine_medziaga.txt:eilės:1
+3. WLAN_teorija_ir_praktika.txt:įranga:1
+3_ld_pagalbine_medziaga.txt:prioritetai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:žinoti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rašo:1
+fileB2.txt:consequat:1
+3. WLAN_teorija_ir_praktika.txt:LAN;:1
+3. WLAN_teorija_ir_praktika.txt:dėžutės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rūšys:1
+3. WLAN_teorija_ir_praktika.txt:(per:1
+1_KT_Samprata, pagrindines_savokos (4).txt:data:1
+3. WLAN_teorija_ir_praktika.txt:phraze:1
+fileB2.txt:aliquet:1
+3. WLAN_teorija_ir_praktika.txt:Gateway):1
+3. WLAN_teorija_ir_praktika.txt:global:1
+3. WLAN_teorija_ir_praktika.txt:bevielis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ši:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	25:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išeinu:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nor:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Hotmail:1
+3. WLAN_teorija_ir_praktika.txt:kitu:1
+1_KT_Samprata, pagrindines_savokos (4).txt:techn:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Kiekviena:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pirmą:1
+1.1ld_Sabuliene-Baguse.txt:15:1
+1_KT_Samprata, pagrindines_savokos (4).txt:165:1
+3. WLAN_teorija_ir_praktika.txt:jungsis):1
+3. WLAN_teorija_ir_praktika.txt:lango:1
+3. WLAN_teorija_ir_praktika.txt:Jungiant:1
+1_KT_Samprata, pagrindines_savokos (4).txt:potinklio;:1
+3. WLAN_teorija_ir_praktika.txt:		GUI:1
+3. WLAN_teorija_ir_praktika.txt:WiMax:1
+1_KT_Samprata, pagrindines_savokos (4).txt:maršrutą:1
+3_ld_pagalbine_medziaga.txt:mazge:1
+fileB2.txt:faucibus:1
+3. WLAN_teorija_ir_praktika.txt:login:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(bankas:1
+1.1ld_Sabuliene-Baguse.txt:E9:1
+1_KT_Samprata, pagrindines_savokos (4).txt:lygmens:1
+1_KT_Samprata, pagrindines_savokos (4).txt:lokalius:1
+1_KT_Samprata, pagrindines_savokos (4).txt:persiūsti:1
+3_ld_pagalbine_medziaga.txt:dalis:1
+fileB2.txt:efficitur:1
+3_ld_pagalbine_medziaga.txt:(GSM:1
+1_KT_Samprata, pagrindines_savokos (4).txt:aerouostų:1
+1.1ld_Sabuliene-Baguse.txt:Node:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paketo:1
+1.1ld_Sabuliene-Baguse.txt:Servers:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laikia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaitiniai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrašomas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paklausimus:1
+1.1ld_Sabuliene-Baguse.txt:Type:1
+3. WLAN_teorija_ir_praktika.txt:maršrutizatorius:1
+3. WLAN_teorija_ir_praktika.txt:televizijos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vietos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kitas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:node);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Gautą:1
+3. WLAN_teorija_ir_praktika.txt:Pasirenkame:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(TCP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Minimum:1
+3. WLAN_teorija_ir_praktika.txt:sklidimo:1
+1.5ld.txt:50:1
+3_ld_pagalbine_medziaga.txt:9:1
+fileB2.txt:Cras:1
+3. WLAN_teorija_ir_praktika.txt:kabelis:1
+3. WLAN_teorija_ir_praktika.txt:saugesnis):1
+3. WLAN_teorija_ir_praktika.txt:(Naudojant:1
+1_KT_Samprata, pagrindines_savokos (4).txt:klientams:1
+3. WLAN_teorija_ir_praktika.txt:name):1
+3. WLAN_teorija_ir_praktika.txt:atviras:1
+3. WLAN_teorija_ir_praktika.txt:skaičiai:1
+3. WLAN_teorija_ir_praktika.txt:nustatome:1
+1_KT_Samprata, pagrindines_savokos (4).txt:=>:1
+3. WLAN_teorija_ir_praktika.txt:ir/arba:1
+1_KT_Samprata, pagrindines_savokos (4).txt:konfigūracijos:1
+3. WLAN_teorija_ir_praktika.txt:Tiekėjai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:32:1
+3. WLAN_teorija_ir_praktika.txt:nėra:1
+1_KT_Samprata, pagrindines_savokos (4).txt:užrašomas:1
+1.5ld.txt:234:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įstaigos:1
+3_ld_pagalbine_medziaga.txt:failą:1
+3. WLAN_teorija_ir_praktika.txt:password:1
+3_ld_pagalbine_medziaga.txt:kurie:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atvro:1
+1_KT_Samprata, pagrindines_savokos (4).txt:domenas/IP_adresas:1
+3_ld_pagalbine_medziaga.txt:trumpą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:raide:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kvieč:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	224:1
+1_KT_Samprata, pagrindines_savokos (4).txt:šis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:reiškia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:jung:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nutrauks:1
+1_KT_Samprata, pagrindines_savokos (4).txt:/24:1
+3. WLAN_teorija_ir_praktika.txt:irenginiai):1
+3_ld_pagalbine_medziaga.txt:sekundę:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rezultato:1
+3_ld_pagalbine_medziaga.txt:baitais:1
+1_KT_Samprata, pagrindines_savokos (4).txt:gr:1
+1_KT_Samprata, pagrindines_savokos (4).txt:neras:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Projektuojant:1
+3_ld_pagalbine_medziaga.txt:20:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Token:1
+3_ld_pagalbine_medziaga.txt:ribojimai:1
+3. WLAN_teorija_ir_praktika.txt:identifikatoriaus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:dvi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:srauto:1
+1_KT_Samprata, pagrindines_savokos (4).txt:OSI:1
+1_KT_Samprata, pagrindines_savokos (4).txt:darbui:1
+3_ld_pagalbine_medziaga.txt:skaičius:1
+3. WLAN_teorija_ir_praktika.txt:Glob:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(labai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:jo:1
+fileB2.txt:Duis:1
+3. WLAN_teorija_ir_praktika.txt:nesidubliuoja:1
+1.5ld.txt:50673:1
+1_KT_Samprata, pagrindines_savokos (4).txt:klientai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:naudoja:1
+3_ld_pagalbine_medziaga.txt:sek:1
+1_KT_Samprata, pagrindines_savokos (4).txt:klientų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:taškai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įmonė:1
+3. WLAN_teorija_ir_praktika.txt:veiksmų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Time:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ftp:1
+1.1ld_Sabuliene-Baguse.txt:Name:1
+3. WLAN_teorija_ir_praktika.txt:serverį:1
+3. WLAN_teorija_ir_praktika.txt:Internet:1
+3_ld_pagalbine_medziaga.txt:klientų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:programinės:1
+3_ld_pagalbine_medziaga.txt:*:1
+3. WLAN_teorija_ir_praktika.txt:asinchr:1
+1_KT_Samprata, pagrindines_savokos (4).txt:lt<=>:1
+3. WLAN_teorija_ir_praktika.txt:bendrasias:1
+3_ld_pagalbine_medziaga.txt:prijungta:1
+3_ld_pagalbine_medziaga.txt:(3DES/ęS:1
+1.5ld.txt:50600:1
+3. WLAN_teorija_ir_praktika.txt:tinklui;:1
+3. WLAN_teorija_ir_praktika.txt:kortelėje:1
+3_ld_pagalbine_medziaga.txt:centrinio:1
+1_KT_Samprata, pagrindines_savokos (4).txt:komutatorius:1
+3_ld_pagalbine_medziaga.txt:1/3/5/6/7:1
+3. WLAN_teorija_ir_praktika.txt:cross:1
+1_KT_Samprata, pagrindines_savokos (4).txt:[78:1
+fileB2.txt:imperdiet:1
+1.1ld_Sabuliene-Baguse.txt:160MHz:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pavad:1
+3_ld_pagalbine_medziaga.txt:kanalo:1
+3. WLAN_teorija_ir_praktika.txt:(Fiber)):1
+1.1ld_Sabuliene-Baguse.txt:NetBIOS:1
+1.5ld.txt:125:1
+3_ld_pagalbine_medziaga.txt:sekundę):1
+fileB2.txt:id:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siuntimo/gavimo/persiuntimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įveikiamų:1
+fileB2.txt:convallis:1
+3. WLAN_teorija_ir_praktika.txt:(pvz:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vartus:1
+3_ld_pagalbine_medziaga.txt:rankomis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:struktūros:1
+3_ld_pagalbine_medziaga.txt:srautą:1
+3. WLAN_teorija_ir_praktika.txt:(UTP):1
+1_KT_Samprata, pagrindines_savokos (4).txt:vykstantį:1
+3_ld_pagalbine_medziaga.txt:Ring:1
+1_KT_Samprata, pagrindines_savokos (4).txt:		Pinging:1
+3. WLAN_teorija_ir_praktika.txt:naudota:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paprašys:1
+3_ld_pagalbine_medziaga.txt:layer);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:populiariausias):1
+3_ld_pagalbine_medziaga.txt:600(300):1
+3. WLAN_teorija_ir_praktika.txt:rūšių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:time=17ms:1
+3. WLAN_teorija_ir_praktika.txt:kurio:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atstovų:1
+3. WLAN_teorija_ir_praktika.txt:	6:1
+3_ld_pagalbine_medziaga.txt:jam:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išraiška:1
+3. WLAN_teorija_ir_praktika.txt:laidų:1
+3_ld_pagalbine_medziaga.txt:tam:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siuntimas):1
+1_KT_Samprata, pagrindines_savokos (4).txt:G3:1
+3. WLAN_teorija_ir_praktika.txt:(negali:1
+1_KT_Samprata, pagrindines_savokos (4).txt:visiems:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	80:1
+3_ld_pagalbine_medziaga.txt:22Mbps:1
+3. WLAN_teorija_ir_praktika.txt:eteriu:1
+1.5ld.txt:50557:1
+3. WLAN_teorija_ir_praktika.txt:mažiau:1
+1_KT_Samprata, pagrindines_savokos (4).txt:viską:1
+3_ld_pagalbine_medziaga.txt:Dinaminis:1
+fileB2.txt:ex:1
+1.5ld.txt:211:1
+1.1ld_Sabuliene-Baguse.txt:WINS:1
+3. WLAN_teorija_ir_praktika.txt:įrangą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Routing:1
+fileB2.txt:aliquam:1
+3_ld_pagalbine_medziaga.txt:reikėtų:1
+1.5ld.txt:Local:1
+1_KT_Samprata, pagrindines_savokos (4).txt:programa:1
+3. WLAN_teorija_ir_praktika.txt:/:1
+3. WLAN_teorija_ir_praktika.txt:jungimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paskirtis:1
+3. WLAN_teorija_ir_praktika.txt:mygtuką:1
+1.1ld_Sabuliene-Baguse.txt:46:1
+1_KT_Samprata, pagrindines_savokos (4).txt:128+64+32:1
+1_KT_Samprata, pagrindines_savokos (4).txt:garso:1
+3. WLAN_teorija_ir_praktika.txt:(WAN:1
+3_ld_pagalbine_medziaga.txt:maršrut:1
+3_ld_pagalbine_medziaga.txt:(port):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Skaitinis:1
+3_ld_pagalbine_medziaga.txt:atėjusių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:aprašo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sistemoje):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Description:1
+3. WLAN_teorija_ir_praktika.txt:(LTV):1
+3_ld_pagalbine_medziaga.txt:	matuojamas:1
+3. WLAN_teorija_ir_praktika.txt:kokybinius:1
+1_KT_Samprata, pagrindines_savokos (4).txt:send:1
+1_KT_Samprata, pagrindines_savokos (4).txt:64000:1
+1_KT_Samprata, pagrindines_savokos (4).txt:doemnų:1
+3_ld_pagalbine_medziaga.txt:		IP:1
+fileB2.txt:lobortis:1
+3. WLAN_teorija_ir_praktika.txt:sako:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rodo:1
+3. WLAN_teorija_ir_praktika.txt:nepersidengia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paslėpti:1
+1.5ld.txt:138:1
+3_ld_pagalbine_medziaga.txt:Radius/Tacacs:1
+3_ld_pagalbine_medziaga.txt:1KB=1024B:1
+3. WLAN_teorija_ir_praktika.txt:specifikacijas:1
+3. WLAN_teorija_ir_praktika.txt:belaidį:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	org:1
+1_KT_Samprata, pagrindines_savokos (4).txt:hierarchinę:1
+3. WLAN_teorija_ir_praktika.txt:pajungimui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:būsena:1
+1_KT_Samprata, pagrindines_savokos (4).txt:adresavimo:1
+3. WLAN_teorija_ir_praktika.txt:192:1
+3_ld_pagalbine_medziaga.txt:taisyklės:1
+3_ld_pagalbine_medziaga.txt:		diferencijuoja:1
+3. WLAN_teorija_ir_praktika.txt:įrangos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pasiekt:1
+1_KT_Samprata, pagrindines_savokos (4).txt:spec:1
+3_ld_pagalbine_medziaga.txt:WAN):1
+1_KT_Samprata, pagrindines_savokos (4).txt:	10):1
+3. WLAN_teorija_ir_praktika.txt:11Mbps/22Mbps(duplex);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(nemok:1
+3. WLAN_teorija_ir_praktika.txt:LAN(Internet)/per:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	5:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pilnai:1
+3. WLAN_teorija_ir_praktika.txt:b:1
+3. WLAN_teorija_ir_praktika.txt:bei:1
+3. WLAN_teorija_ir_praktika.txt:stiprumas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tipas:1
+1.1ld_Sabuliene-Baguse.txt:19:1
+3. WLAN_teorija_ir_praktika.txt:tada:1
+1_KT_Samprata, pagrindines_savokos (4).txt:diską:1
+3_ld_pagalbine_medziaga.txt:idealaus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:148:1
+3_ld_pagalbine_medziaga.txt:informacijai:1
+3. WLAN_teorija_ir_praktika.txt:tačiau:1
+3. WLAN_teorija_ir_praktika.txt:Area:1
+3_ld_pagalbine_medziaga.txt:200:1
+3. WLAN_teorija_ir_praktika.txt:laidas:1
+3. WLAN_teorija_ir_praktika.txt:54Mbps/108Mbps;:1
+1.1ld_Sabuliene-Baguse.txt:#2:1
+3. WLAN_teorija_ir_praktika.txt:standartų:1
+3. WLAN_teorija_ir_praktika.txt:devices:1
+3_ld_pagalbine_medziaga.txt:skirama:1
+3. WLAN_teorija_ir_praktika.txt:2G/3G/4G:1
+3_ld_pagalbine_medziaga.txt:perduodami:1
+1_KT_Samprata, pagrindines_savokos (4).txt:registruotas):1
+1.5ld.txt:50596:1
+1.1ld_Sabuliene-Baguse.txt:2D:1
+1.1ld_Sabuliene-Baguse.txt:DUID:1
+3_ld_pagalbine_medziaga.txt:Standartai:1
+1.5ld.txt:55364:1
+1_KT_Samprata, pagrindines_savokos (4).txt:taisyklių:1
+3_ld_pagalbine_medziaga.txt:(VLAN);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:dalyv:1
+3_ld_pagalbine_medziaga.txt:11n:1
+3_ld_pagalbine_medziaga.txt:	1000base:1
+1.1ld_Sabuliene-Baguse.txt:Host:1
+3_ld_pagalbine_medziaga.txt:integruotas:1
+3. WLAN_teorija_ir_praktika.txt:gateway:1
+3. WLAN_teorija_ir_praktika.txt:prij:1
+1.1ld_Sabuliene-Baguse.txt:over:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prisijunges:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skiriasi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tikrinimui:1
+3_ld_pagalbine_medziaga.txt:rašomos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skirti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tipai:1
+1.1ld_Sabuliene-Baguse.txt:Hybrid:1
+fileB2.txt:vehicula:1
+1_KT_Samprata, pagrindines_savokos (4).txt:adresai:1
+3. WLAN_teorija_ir_praktika.txt:slaptažodį:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuterį):1
+3_ld_pagalbine_medziaga.txt:1/2/3:1
+3_ld_pagalbine_medziaga.txt:būdingas:1
+1.5ld.txt:49798:1
+1.5ld.txt:Proto:1
+1_KT_Samprata, pagrindines_savokos (4).txt:procesų:1
+3. WLAN_teorija_ir_praktika.txt:jungsime:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Proxy:1
+3_ld_pagalbine_medziaga.txt:vyt:1
+1.5ld.txt:50661:1
+3. WLAN_teorija_ir_praktika.txt:Būdingas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	128:1
+1_KT_Samprata, pagrindines_savokos (4).txt:		Localhost:1
+1.1ld_Sabuliene-Baguse.txt:9F:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atpažins:1
+1_KT_Samprata, pagrindines_savokos (4).txt:mane:1
+1_KT_Samprata, pagrindines_savokos (4).txt:teikia:1
+3. WLAN_teorija_ir_praktika.txt:static:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	tracert:1
+3_ld_pagalbine_medziaga.txt:pl:1
+3. WLAN_teorija_ir_praktika.txt:over):1
+1.5ld.txt:50687:1
+1_KT_Samprata, pagrindines_savokos (4).txt:66:1
+3_ld_pagalbine_medziaga.txt:CPU/multicore:1
+3_ld_pagalbine_medziaga.txt:		Pvz:1
+1.1ld_Sabuliene-Baguse.txt:59a9:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prij:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklalapius:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(rodanti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:5;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Average:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	Domenų:1
+3_ld_pagalbine_medziaga.txt:kas:1
+3_ld_pagalbine_medziaga.txt:beveik:1
+3_ld_pagalbine_medziaga.txt:tas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Lietuvos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:stulpeliai:1
+3_ld_pagalbine_medziaga.txt:nutol:1
+3_ld_pagalbine_medziaga.txt:laikas:1
+3_ld_pagalbine_medziaga.txt:būti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:fizinė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(HUB):1
+3. WLAN_teorija_ir_praktika.txt:statinis:1
+3. WLAN_teorija_ir_praktika.txt:juos:1
+3. WLAN_teorija_ir_praktika.txt:disabled:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ilgį:1
+3. WLAN_teorija_ir_praktika.txt:jam:1
+3_ld_pagalbine_medziaga.txt:Parametrai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:minimaliai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:segmentai:1
+3. WLAN_teorija_ir_praktika.txt:naudojami:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ryšio:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(0%:1
+3. WLAN_teorija_ir_praktika.txt:antenos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:perdavimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ainė):1
+3. WLAN_teorija_ir_praktika.txt:tiekėjas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:domenui;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Populiari:1
+fileB2.txt:sollicitudin:1
+3_ld_pagalbine_medziaga.txt:prioritetizavimas:1
+3_ld_pagalbine_medziaga.txt:(delay);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sąveika:1
+1.1ld_Sabuliene-Baguse.txt:IAID:1
+3_ld_pagalbine_medziaga.txt:koncentratoriai:1
+3_ld_pagalbine_medziaga.txt:CPU:1
+3_ld_pagalbine_medziaga.txt:(t:1
+1_KT_Samprata, pagrindines_savokos (4).txt:identifikuoja:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Kitos:1
+3_ld_pagalbine_medziaga.txt:(IEEE:1
+3. WLAN_teorija_ir_praktika.txt:perd:1
+3. WLAN_teorija_ir_praktika.txt:belaidę:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrašytas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vienos:1
+3. WLAN_teorija_ir_praktika.txt:Points:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kabelinę:1
+3. WLAN_teorija_ir_praktika.txt:lengvai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laužasi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:protokocol):1
+1_KT_Samprata, pagrindines_savokos (4).txt:bendrosiosm:1
+3. WLAN_teorija_ir_praktika.txt:54Mbps/108Mbps(duplex);:1
+1.5ld.txt:195:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(mili:1
+1.5ld.txt:77:1
+fileB2.txt:sodales:1
+3_ld_pagalbine_medziaga.txt:įrenginį:1
+1_KT_Samprata, pagrindines_savokos (4).txt:/8:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(aš:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Galimi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:host);:1
+1.1ld_Sabuliene-Baguse.txt:USB:1
+3. WLAN_teorija_ir_praktika.txt:tinklas):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Jungimo:1
+3_ld_pagalbine_medziaga.txt:	kontr:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(run:1
+1_KT_Samprata, pagrindines_savokos (4).txt:numtytas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaidoma:1
+3_ld_pagalbine_medziaga.txt:Switch:1
+fileB2.txt:vulputate:1
+1_KT_Samprata, pagrindines_savokos (4).txt:TASKLIST:1
+3_ld_pagalbine_medziaga.txt:privatūs:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(admin:1
+3_ld_pagalbine_medziaga.txt:pris:1
+3_ld_pagalbine_medziaga.txt:Fast:1
+3_ld_pagalbine_medziaga.txt:100Mbps:1
+3_ld_pagalbine_medziaga.txt:mobilus:1
+3. WLAN_teorija_ir_praktika.txt:UTP):1
+1_KT_Samprata, pagrindines_savokos (4).txt:aprašantys:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(arba:1
+1_KT_Samprata, pagrindines_savokos (4).txt:gyvavimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sk:1
+1_KT_Samprata, pagrindines_savokos (4).txt:CMD):1
+3. WLAN_teorija_ir_praktika.txt:Teo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siunčimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paslaugas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:bytes:1
+3. WLAN_teorija_ir_praktika.txt:(prie:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	lt:1
+1_KT_Samprata, pagrindines_savokos (4).txt:55:1
+3_ld_pagalbine_medziaga.txt:Modemas:1
+3_ld_pagalbine_medziaga.txt:tinklu:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laikai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	LAN:1
+3_ld_pagalbine_medziaga.txt:parenkami:1
+3. WLAN_teorija_ir_praktika.txt:server:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	WAN:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(info:1
+3. WLAN_teorija_ir_praktika.txt:(padalos:1
+3_ld_pagalbine_medziaga.txt:priemonės:1
+3_ld_pagalbine_medziaga.txt:or:1
+1_KT_Samprata, pagrindines_savokos (4).txt:šiuo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrangos:1
+1.1ld_Sabuliene-Baguse.txt:Obtained:1
+1_KT_Samprata, pagrindines_savokos (4).txt:NSLOOKUP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:times:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Multicast;):1
+3. WLAN_teorija_ir_praktika.txt:(cia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:loginė:1
+1.5ld.txt:50672:1
+1.1ld_Sabuliene-Baguse.txt:Family:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Jūsų:1
+1.1ld_Sabuliene-Baguse.txt:8421%17(Preferred):1
+1.5ld.txt:55365:1
+3_ld_pagalbine_medziaga.txt:1p):1
+3_ld_pagalbine_medziaga.txt:11a:1
+3. WLAN_teorija_ir_praktika.txt:kompiuteriuose:1
+1_KT_Samprata, pagrindines_savokos (4).txt:būseną:1
+3_ld_pagalbine_medziaga.txt:dupex:1
+1.1ld_Sabuliene-Baguse.txt:Link:1
+3. WLAN_teorija_ir_praktika.txt:DSL/per:1
+3_ld_pagalbine_medziaga.txt:tinklas:1
+3_ld_pagalbine_medziaga.txt:>:1
+fileB2.txt:quis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:aktyvuojami:1
+1_KT_Samprata, pagrindines_savokos (4).txt:brėžiamos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tinkamo:1
+fileB2.txt:Vestibulum:1
+3. WLAN_teorija_ir_praktika.txt:Bite:1
+1_KT_Samprata, pagrindines_savokos (4).txt:/:1
+3_ld_pagalbine_medziaga.txt:hz:1
+1_KT_Samprata, pagrindines_savokos (4).txt:78:1
+3. WLAN_teorija_ir_praktika.txt:iš:1
+1_KT_Samprata, pagrindines_savokos (4).txt:/16:1
+1.1ld_Sabuliene-Baguse.txt:6A:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pokytis:1
+3_ld_pagalbine_medziaga.txt:GB:1
+1.5ld.txt:56474:1
+3_ld_pagalbine_medziaga.txt:valdymas:1
+1.5ld.txt:205:1
+1_KT_Samprata, pagrindines_savokos (4).txt:toks:1
+3_ld_pagalbine_medziaga.txt:valdomas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:specific:1
+3. WLAN_teorija_ir_praktika.txt:pavadinimas):1
+3. WLAN_teorija_ir_praktika.txt:liniją/per:1
+1_KT_Samprata, pagrindines_savokos (4).txt:round:1
+1_KT_Samprata, pagrindines_savokos (4).txt:porą:1
+3_ld_pagalbine_medziaga.txt:kolizijos:1
+3. WLAN_teorija_ir_praktika.txt:mask:1
+1_KT_Samprata, pagrindines_savokos (4).txt:3;:1
+1.1ld_Sabuliene-Baguse.txt:Device:1
+3_ld_pagalbine_medziaga.txt:PoE:1
+1_KT_Samprata, pagrindines_savokos (4).txt:an:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Tinko:1
+1_KT_Samprata, pagrindines_savokos (4).txt:A2:1
+3_ld_pagalbine_medziaga.txt:atsilaisvins:1
+3_ld_pagalbine_medziaga.txt:procesoriaus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siuntinėja:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ats:1
+3_ld_pagalbine_medziaga.txt:lėčiausią:1
+3_ld_pagalbine_medziaga.txt:trikdžių;:1
+3. WLAN_teorija_ir_praktika.txt:ryšį:1
+3. WLAN_teorija_ir_praktika.txt:pavadinimą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išskaidytas:1
+3_ld_pagalbine_medziaga.txt:sujungimai:1
+3_ld_pagalbine_medziaga.txt:(jei:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	A1:1
+3. WLAN_teorija_ir_praktika.txt:pirmas):1
+3. WLAN_teorija_ir_praktika.txt:kurios:1
+3. WLAN_teorija_ir_praktika.txt:nešiojamą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laiką:1
+3. WLAN_teorija_ir_praktika.txt:(Radius:1
+3. WLAN_teorija_ir_praktika.txt:nešiojamo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:veikia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:informacija:1
+3_ld_pagalbine_medziaga.txt:SSH:1
+3_ld_pagalbine_medziaga.txt:dar:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prisijungęs:1
+1_KT_Samprata, pagrindines_savokos (4).txt:perduota:1
+3_ld_pagalbine_medziaga.txt:(DSL:1
+1_KT_Samprata, pagrindines_savokos (4).txt:operacijoms:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skirtingų:1
+3_ld_pagalbine_medziaga.txt:par:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nežino:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nr:1
+3_ld_pagalbine_medziaga.txt:PCIex:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pakalausimą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:4]:1
+3. WLAN_teorija_ir_praktika.txt:pažeidžiamas:1
+3. WLAN_teorija_ir_praktika.txt:(paprastesnis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:teikianč:1
+3. WLAN_teorija_ir_praktika.txt:telefono:1
+1_KT_Samprata, pagrindines_savokos (4).txt:device:1
+1.5ld.txt:Connections:1
+1_KT_Samprata, pagrindines_savokos (4).txt:4B:1
+1_KT_Samprata, pagrindines_savokos (4).txt:aibė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Sent:1
+3. WLAN_teorija_ir_praktika.txt:15min:1
+3. WLAN_teorija_ir_praktika.txt:maršrutizatoriaus(verstas:1
+3. WLAN_teorija_ir_praktika.txt:adresas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(e:1
+1_KT_Samprata, pagrindines_savokos (4).txt:64256:1
+3. WLAN_teorija_ir_praktika.txt:nešantysis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Physical:1
+1_KT_Samprata, pagrindines_savokos (4).txt:valst:1
+3. WLAN_teorija_ir_praktika.txt:pavadinimas:1
+3_ld_pagalbine_medziaga.txt:raidės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	fm:1
+3. WLAN_teorija_ir_praktika.txt:pasenusi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nėra:1
+1_KT_Samprata, pagrindines_savokos (4).txt:radijas:1
+3_ld_pagalbine_medziaga.txt:adresą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Globalus:1
+3_ld_pagalbine_medziaga.txt:wireless:1
+3. WLAN_teorija_ir_praktika.txt:prieigos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:transliacijoms:1
+3_ld_pagalbine_medziaga.txt:paslauga:1
+1.1ld_Sabuliene-Baguse.txt:Configuration:1
+3. WLAN_teorija_ir_praktika.txt:(Wide:1
+3. WLAN_teorija_ir_praktika.txt:Būtina:1
+3. WLAN_teorija_ir_praktika.txt:pakanka:1
+fileB2.txt:tellus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	close:1
+3_ld_pagalbine_medziaga.txt:su:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Servers:1
+3_ld_pagalbine_medziaga.txt:sign:1
+1_KT_Samprata, pagrindines_savokos (4).txt:HTTP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	aero:1
+3. WLAN_teorija_ir_praktika.txt:ADSL:1
+3_ld_pagalbine_medziaga.txt:dalies:1
+1_KT_Samprata, pagrindines_savokos (4).txt:mazgas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Express/Microsoft:1
+3_ld_pagalbine_medziaga.txt:		pagal:1
+3_ld_pagalbine_medziaga.txt:Magistralė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kiekviename:1
+3_ld_pagalbine_medziaga.txt:palaiko:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Domenų:1
+3. WLAN_teorija_ir_praktika.txt:vietiniam:1
+1.1ld_Sabuliene-Baguse.txt:Default:1
+1_KT_Samprata, pagrindines_savokos (4).txt:grupei:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	192:1
+1_KT_Samprata, pagrindines_savokos (4).txt:adresuoti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaidanti:1
+1.1ld_Sabuliene-Baguse.txt:Network):1
+fileB2.txt:pulvinar:1
+3_ld_pagalbine_medziaga.txt:sparta=Port:1
+3_ld_pagalbine_medziaga.txt:	1Kb=1000b:1
+1.1ld_Sabuliene-Baguse.txt:20:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Wireless):1
+3_ld_pagalbine_medziaga.txt:naudojasi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(IP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	established:1
+3_ld_pagalbine_medziaga.txt:WiFi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	Pirmo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(132:1
+3_ld_pagalbine_medziaga.txt:IPsec:1
+3. WLAN_teorija_ir_praktika.txt:(patikrinti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:128+64:1
+3. WLAN_teorija_ir_praktika.txt:(UTP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:palaiko:1
+1_KT_Samprata, pagrindines_savokos (4).txt:20:1
+3_ld_pagalbine_medziaga.txt:transliavimo:1
+3_ld_pagalbine_medziaga.txt:VLAN:1
+1_KT_Samprata, pagrindines_savokos (4).txt:lyg:1
+3. WLAN_teorija_ir_praktika.txt:laidus:1
+3_ld_pagalbine_medziaga.txt:kodavimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:hierarchiją):1
+3. WLAN_teorija_ir_praktika.txt:plokšte:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nutolusio:1
+3_ld_pagalbine_medziaga.txt:tarnybinei:1
+3. WLAN_teorija_ir_praktika.txt:tinkle:1
+3_ld_pagalbine_medziaga.txt:10:1
+3. WLAN_teorija_ir_praktika.txt:(lenktas:1
+3_ld_pagalbine_medziaga.txt:kokybė;:1
+3. WLAN_teorija_ir_praktika.txt:rpieigos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:reikėtų:1
+3_ld_pagalbine_medziaga.txt:paketais;:1
+3_ld_pagalbine_medziaga.txt:vitualūs:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(bridge):1
+3. WLAN_teorija_ir_praktika.txt:Point);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Mail:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Populiariausias:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrenginiai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:reikalingos:1
+3. WLAN_teorija_ir_praktika.txt:tinklų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Šiaulių:1
+3_ld_pagalbine_medziaga.txt:(100:1
+1_KT_Samprata, pagrindines_savokos (4).txt:logika:1
+3. WLAN_teorija_ir_praktika.txt:apačioje:1
+3_ld_pagalbine_medziaga.txt:Jos:1
+3. WLAN_teorija_ir_praktika.txt:SSID):1
+1_KT_Samprata, pagrindines_savokos (4).txt:žino:1
+3. WLAN_teorija_ir_praktika.txt:silpnas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:UDP):1
+3_ld_pagalbine_medziaga.txt:kol:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siunčiamas:1
+3. WLAN_teorija_ir_praktika.txt:TEO);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ainėje:1
+3. WLAN_teorija_ir_praktika.txt:168:1
+3. WLAN_teorija_ir_praktika.txt:300Mbps:1
+1_KT_Samprata, pagrindines_savokos (4).txt:11111111:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(dalis):1
+3_ld_pagalbine_medziaga.txt:tinko:1
+3. WLAN_teorija_ir_praktika.txt:įrenginiai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tikrai:1
+3_ld_pagalbine_medziaga.txt:(10:1
+3_ld_pagalbine_medziaga.txt:tinklai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išnuomoti:1
+3_ld_pagalbine_medziaga.txt:100/8:1
+3_ld_pagalbine_medziaga.txt:CSMA/CD:1
+3. WLAN_teorija_ir_praktika.txt:vartų:1
+3_ld_pagalbine_medziaga.txt:būtų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:A4:1
+3. WLAN_teorija_ir_praktika.txt:technologijos:1
+3_ld_pagalbine_medziaga.txt:susidūrimas:1
+3. WLAN_teorija_ir_praktika.txt:į:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Relay;:1
+3. WLAN_teorija_ir_praktika.txt:Erdvės:1
+1.1ld_Sabuliene-Baguse.txt:IPv6:1
+3. WLAN_teorija_ir_praktika.txt:specialią:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaitinio:1
+1.5ld.txt:3050:1
+3_ld_pagalbine_medziaga.txt:kokybės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:anb:1
+3_ld_pagalbine_medziaga.txt:SFP:1
+3_ld_pagalbine_medziaga.txt:portą:1
+3. WLAN_teorija_ir_praktika.txt:jungti:1
+3. WLAN_teorija_ir_praktika.txt:išsaugoti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sąrašą:1
+3. WLAN_teorija_ir_praktika.txt:įjungiame:1
+3_ld_pagalbine_medziaga.txt:(port/PoE:1
+1_KT_Samprata, pagrindines_savokos (4).txt:koduojamas:1
+3_ld_pagalbine_medziaga.txt:Static:1
+3_ld_pagalbine_medziaga.txt:montuojamas:1
+3_ld_pagalbine_medziaga.txt:Firewall/Proxy/:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pask:1
+1_KT_Samprata, pagrindines_savokos (4).txt:parodo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:maršr:1
+3. WLAN_teorija_ir_praktika.txt:kopmpiuterį:1
+3. WLAN_teorija_ir_praktika.txt:adresai:1
+3. WLAN_teorija_ir_praktika.txt:(sudėtingesnis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:komandą:1
+3_ld_pagalbine_medziaga.txt:(LAN):1
+3. WLAN_teorija_ir_praktika.txt:(pass:1
+3. WLAN_teorija_ir_praktika.txt:default:1
+3_ld_pagalbine_medziaga.txt:pavyzdžio:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pavadinimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Tracing:1
+3_ld_pagalbine_medziaga.txt:jų:1
+1.1ld_Sabuliene-Baguse.txt:06:1
+1_KT_Samprata, pagrindines_savokos (4).txt:bendrauja:1
+1_KT_Samprata, pagrindines_savokos (4).txt:patoviai:1
+3_ld_pagalbine_medziaga.txt:valdomas;:1
+3_ld_pagalbine_medziaga.txt:(network):1
+3. WLAN_teorija_ir_praktika.txt:(display:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Mazgai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kodo:1
+1.5ld.txt:73:1
+3_ld_pagalbine_medziaga.txt:linijos);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:C):1
+1_KT_Samprata, pagrindines_savokos (4).txt:	23:1
+3_ld_pagalbine_medziaga.txt:virtuaius:1
+3_ld_pagalbine_medziaga.txt:prioritetų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Subnet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:saugotojų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:loss):1
+3. WLAN_teorija_ir_praktika.txt:taškas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vardą):1
+3_ld_pagalbine_medziaga.txt:param:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kolegija:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Bevielis:1
+1.1ld_Sabuliene-Baguse.txt:(6):1
+3_ld_pagalbine_medziaga.txt:kiti:1
+3. WLAN_teorija_ir_praktika.txt:lėkštės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Received:1
+3. WLAN_teorija_ir_praktika.txt:galime:1
+3. WLAN_teorija_ir_praktika.txt:standartas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:servisas):1
+1_KT_Samprata, pagrindines_savokos (4).txt:ATM:1
+3. WLAN_teorija_ir_praktika.txt:duom:1
+1.5ld.txt:9:1
+3_ld_pagalbine_medziaga.txt:būdingos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:greitis:1
+3. WLAN_teorija_ir_praktika.txt:slaptą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kinta:1
+1_KT_Samprata, pagrindines_savokos (4).txt:192:1
+3_ld_pagalbine_medziaga.txt:tuo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:programų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	240:1
+1_KT_Samprata, pagrindines_savokos (4).txt:		tv3:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Packets:1
+1_KT_Samprata, pagrindines_savokos (4).txt:HTTP/HTTPS:1
+3. WLAN_teorija_ir_praktika.txt:būdas:1
+1.5ld.txt:54815:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kt:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vardas):1
+3_ld_pagalbine_medziaga.txt:numerius;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:254:1
+1_KT_Samprata, pagrindines_savokos (4).txt:iana:1
+3. WLAN_teorija_ir_praktika.txt:greitesnė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:223:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Windows:1
+3_ld_pagalbine_medziaga.txt:(CPU:1
+1_KT_Samprata, pagrindines_savokos (4).txt:versti:1
+3_ld_pagalbine_medziaga.txt:saugojimui:1
+3_ld_pagalbine_medziaga.txt:(PCI:1
+3_ld_pagalbine_medziaga.txt:(Host):1
+3. WLAN_teorija_ir_praktika.txt:kiti):1
+3. WLAN_teorija_ir_praktika.txt:d:1
+3_ld_pagalbine_medziaga.txt:phyzical:1
+1_KT_Samprata, pagrindines_savokos (4).txt:patikrinti:1
+3_ld_pagalbine_medziaga.txt:SSH/Telnet:1
+3. WLAN_teorija_ir_praktika.txt:WPA2:1
+3. WLAN_teorija_ir_praktika.txt:maršrut:1
+3. WLAN_teorija_ir_praktika.txt:testavimui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:protokolo:1
+3. WLAN_teorija_ir_praktika.txt:(praktiškai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrašymui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:for:1
+1_KT_Samprata, pagrindines_savokos (4).txt:segmentų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(išsamiai):1
+3. WLAN_teorija_ir_praktika.txt:Surašius:1
+3. WLAN_teorija_ir_praktika.txt:centras:1
+3_ld_pagalbine_medziaga.txt:jungimą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vadinasi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Manager):1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Wide:1
+1_KT_Samprata, pagrindines_savokos (4).txt:out:1
+3_ld_pagalbine_medziaga.txt:prie:1
+1_KT_Samprata, pagrindines_savokos (4).txt:būdu:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Type:1
+1_KT_Samprata, pagrindines_savokos (4).txt:UDP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Node:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kitam:1
+1_KT_Samprata, pagrindines_savokos (4).txt:WINS:1
+1.1ld_Sabuliene-Baguse.txt:134540595:1
+1_KT_Samprata, pagrindines_savokos (4).txt:H/8:1
+fileB2.txt:egestas:1
+3_ld_pagalbine_medziaga.txt:G:1
+3_ld_pagalbine_medziaga.txt:eilutę;:1
+3. WLAN_teorija_ir_praktika.txt:Netw:1
+3. WLAN_teorija_ir_praktika.txt:naudojant:1
+fileB2.txt:iaculis:1
+3_ld_pagalbine_medziaga.txt:vartot:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Paslaugos:1
+3_ld_pagalbine_medziaga.txt:optinis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tikrą:1
+3. WLAN_teorija_ir_praktika.txt:aktualu:1
+3. WLAN_teorija_ir_praktika.txt:tinklą;:1
+3. WLAN_teorija_ir_praktika.txt:(interneto:1
+1.5ld.txt:State:1
+1_KT_Samprata, pagrindines_savokos (4).txt:adreso:1
+3. WLAN_teorija_ir_praktika.txt:paslaugos:1
+3_ld_pagalbine_medziaga.txt:nešantysis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Mask:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vienas:1
+3_ld_pagalbine_medziaga.txt:		3:1
+1_KT_Samprata, pagrindines_savokos (4).txt:bazių:1
+3. WLAN_teorija_ir_praktika.txt:		Wireless:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prievadai:1
+1.1ld_Sabuliene-Baguse.txt:Expires:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vaizdo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Faile:1
+3. WLAN_teorija_ir_praktika.txt:Populiariausieji:1
+3. WLAN_teorija_ir_praktika.txt:jungties:1
+1_KT_Samprata, pagrindines_savokos (4).txt:trečio:1
+3_ld_pagalbine_medziaga.txt:eiles:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Dinamyc:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Kelio:1
+3_ld_pagalbine_medziaga.txt:nustatomi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:protokolų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:mane):1
+1_KT_Samprata, pagrindines_savokos (4).txt:minimalią:1
+1_KT_Samprata, pagrindines_savokos (4).txt:renkame:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Task:1
+1.5ld.txt:49731:1
+1_KT_Samprata, pagrindines_savokos (4).txt:suteikiamas:1
+3_ld_pagalbine_medziaga.txt:didesnis:1
+3. WLAN_teorija_ir_praktika.txt:koduotes:1
+1_KT_Samprata, pagrindines_savokos (4).txt:standartų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	22:1
+3_ld_pagalbine_medziaga.txt:kanalų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:savo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pačios:1
+1_KT_Samprata, pagrindines_savokos (4).txt:A3:1
+3. WLAN_teorija_ir_praktika.txt:FrameRelay:1
+3. WLAN_teorija_ir_praktika.txt:numatytas:1
+3_ld_pagalbine_medziaga.txt:		siuntėjo:1
+fileB2.txt:lacinia:1
+3. WLAN_teorija_ir_praktika.txt:(rekomenduojamas:1
+3_ld_pagalbine_medziaga.txt:ident:1
+1_KT_Samprata, pagrindines_savokos (4).txt:antro:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Mezon:1
+3. WLAN_teorija_ir_praktika.txt:name:1
+1_KT_Samprata, pagrindines_savokos (4).txt:globalius:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nustat:1
+1.1ld_Sabuliene-Baguse.txt:IPv4:1
+3_ld_pagalbine_medziaga.txt:žvaigždė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:TCP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:globalusis:1
+3_ld_pagalbine_medziaga.txt:Mbps(megabitų:1
+3_ld_pagalbine_medziaga.txt:nerašo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vartotojui:1
+3_ld_pagalbine_medziaga.txt:koeficiento:1
+1.1ld_Sabuliene-Baguse.txt:11:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuterius:1
+3_ld_pagalbine_medziaga.txt:(megabaitų):1
+3_ld_pagalbine_medziaga.txt:port:1
+1_KT_Samprata, pagrindines_savokos (4).txt:veiklą:1
+3. WLAN_teorija_ir_praktika.txt:signalas:1
+3_ld_pagalbine_medziaga.txt:vidutinės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:191:1
+1.5ld.txt:48:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nepasiekiams:1
+1_KT_Samprata, pagrindines_savokos (4).txt:televizija;:1
+3_ld_pagalbine_medziaga.txt:Gbps:1
+3. WLAN_teorija_ir_praktika.txt:kab:1
+1_KT_Samprata, pagrindines_savokos (4).txt:iana(log:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Globaliuoseir:1
+3_ld_pagalbine_medziaga.txt:atpažins:1
+3_ld_pagalbine_medziaga.txt:router:1
+1.1ld_Sabuliene-Baguse.txt:(Personal:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nuomojasi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:fizinį:1
+fileB2.txt:pellentesque:1
+3. WLAN_teorija_ir_praktika.txt:Authentication:1
+3_ld_pagalbine_medziaga.txt:	paketai:1
+3_ld_pagalbine_medziaga.txt:priev:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nusako:1
+3_ld_pagalbine_medziaga.txt:duplex(100*2):1
+3_ld_pagalbine_medziaga.txt:Šakotuvai:1
+3_ld_pagalbine_medziaga.txt:NWay:1
+1_KT_Samprata, pagrindines_savokos (4).txt:110:1
+1_KT_Samprata, pagrindines_savokos (4).txt:serverių:1
+1.5ld.txt:179:1
+3_ld_pagalbine_medziaga.txt:turėtų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(127:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	110:1
+3. WLAN_teorija_ir_praktika.txt:belaidžio:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaičiais:1
+3_ld_pagalbine_medziaga.txt:spec:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	DNS:1
+3. WLAN_teorija_ir_praktika.txt:bangas):1
+1.1ld_Sabuliene-Baguse.txt:Mask:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(6:1
+3_ld_pagalbine_medziaga.txt:Layer:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Trace:1
+3_ld_pagalbine_medziaga.txt:(1Ghz:1
+1.5ld.txt:137:1
+3_ld_pagalbine_medziaga.txt:šios:1
+3. WLAN_teorija_ir_praktika.txt:schemą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kurios:1
+3. WLAN_teorija_ir_praktika.txt:Internetas:1
+3_ld_pagalbine_medziaga.txt:kabelis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:potinklį:1
+1_KT_Samprata, pagrindines_savokos (4).txt:valdymo:1
+3_ld_pagalbine_medziaga.txt:specifikacijos:1
+3_ld_pagalbine_medziaga.txt:375:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Server):1
+3_ld_pagalbine_medziaga.txt:8Mhz:1
+3_ld_pagalbine_medziaga.txt:(8PORT:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vieną:1
+3_ld_pagalbine_medziaga.txt:Stainis:1
+3_ld_pagalbine_medziaga.txt:kolizija:1
+1_KT_Samprata, pagrindines_savokos (4).txt:3):1
+3_ld_pagalbine_medziaga.txt:laiku:1
+1_KT_Samprata, pagrindines_savokos (4).txt:suprantamas:1
+3_ld_pagalbine_medziaga.txt:tech:1
+3. WLAN_teorija_ir_praktika.txt:kaukę:1
+3. WLAN_teorija_ir_praktika.txt:pastiprinti:1
+3_ld_pagalbine_medziaga.txt:saugus:1
+3. WLAN_teorija_ir_praktika.txt:ATM:1
+1_KT_Samprata, pagrindines_savokos (4).txt:mazgų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:dalyvius:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Dinamic:1
+3_ld_pagalbine_medziaga.txt:USB:1
+1_KT_Samprata, pagrindines_savokos (4).txt:klases:1
+3. WLAN_teorija_ir_praktika.txt:šių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:gausiu:1
+1.1ld_Sabuliene-Baguse.txt:fe80:1
+1_KT_Samprata, pagrindines_savokos (4).txt:neturi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Sujungia:1
+3_ld_pagalbine_medziaga.txt:interneto:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrašytus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atidarytas:1
+3. WLAN_teorija_ir_praktika.txt:tel:1
+1.1ld_Sabuliene-Baguse.txt:Subnet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	Valdo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	edu:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Torrent:1
+3_ld_pagalbine_medziaga.txt:(Ethernet:1
+3. WLAN_teorija_ir_praktika.txt:frazę:1
+3. WLAN_teorija_ir_praktika.txt:(apkritimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Mask):1
+3_ld_pagalbine_medziaga.txt:BNC:1
+3. WLAN_teorija_ir_praktika.txt:anteną:1
+1_KT_Samprata, pagrindines_savokos (4).txt:garantuoja:1
+3. WLAN_teorija_ir_praktika.txt:(kodavimas):1
+1_KT_Samprata, pagrindines_savokos (4).txt:užklausą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:palaikyti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:parenka:1
+1_KT_Samprata, pagrindines_savokos (4).txt:[192:1
+1.5ld.txt:55366:1
+3_ld_pagalbine_medziaga.txt:ACL:1
+1_KT_Samprata, pagrindines_savokos (4).txt:seconds:1
+3_ld_pagalbine_medziaga.txt:saugūs:1
+3. WLAN_teorija_ir_praktika.txt:vietinių:1
+3_ld_pagalbine_medziaga.txt:(srauto:1
+3_ld_pagalbine_medziaga.txt:Lin:1
+3. WLAN_teorija_ir_praktika.txt:nustayti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:milli:1
+1.1ld_Sabuliene-Baguse.txt:AC:1
+3. WLAN_teorija_ir_praktika.txt:tinklai:1
+1.1ld_Sabuliene-Baguse.txt:49:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rezultatus:1
+3. WLAN_teorija_ir_praktika.txt:		LAN:1
+1_KT_Samprata, pagrindines_savokos (4).txt:progr:1
+1_KT_Samprata, pagrindines_savokos (4).txt:POP3/IMAP/SMTP:1
+3_ld_pagalbine_medziaga.txt:komand:1
+3. WLAN_teorija_ir_praktika.txt:išimti:1
+3_ld_pagalbine_medziaga.txt:paslaugas;:1
+3_ld_pagalbine_medziaga.txt:3G:1
+1_KT_Samprata, pagrindines_savokos (4).txt:keli:1
+1_KT_Samprata, pagrindines_savokos (4).txt:informuoti:1
+3_ld_pagalbine_medziaga.txt:IGMP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:maršrutizatoriaus:1
+fileB2.txt:libero:1
+3_ld_pagalbine_medziaga.txt:realiu:1
+3. WLAN_teorija_ir_praktika.txt:nustatymus);:1
+3. WLAN_teorija_ir_praktika.txt:kanalą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:norime:1
+3_ld_pagalbine_medziaga.txt:linija):1
+3. WLAN_teorija_ir_praktika.txt:spragtelėti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atsimins:1
+3_ld_pagalbine_medziaga.txt:vienmodis/daugiamodis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Host):1
+3. WLAN_teorija_ir_praktika.txt:UTP:1
+1.5ld.txt:11:1
+3_ld_pagalbine_medziaga.txt:	CSMA/CD:1
+3. WLAN_teorija_ir_praktika.txt:įrenginių:1
+3. WLAN_teorija_ir_praktika.txt:vietoje:1
+1_KT_Samprata, pagrindines_savokos (4).txt:S:1
+1.1ld_Sabuliene-Baguse.txt:Routing:1
+3_ld_pagalbine_medziaga.txt:(kuo:1
+3. WLAN_teorija_ir_praktika.txt:modemus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prijungiami:1
+1_KT_Samprata, pagrindines_savokos (4).txt:route:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rankiniu:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Siauri:1
+1_KT_Samprata, pagrindines_savokos (4).txt:http/www:1
+3_ld_pagalbine_medziaga.txt:kabelį:1
+3. WLAN_teorija_ir_praktika.txt:adress:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pasakyti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:duom:1
+3_ld_pagalbine_medziaga.txt:1p:1
+3. WLAN_teorija_ir_praktika.txt:	5:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kurie:1
+3. WLAN_teorija_ir_praktika.txt:maršrutizatoriaus):1
+3. WLAN_teorija_ir_praktika.txt:(belaidziai:1
+3. WLAN_teorija_ir_praktika.txt:kainą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:239:1
+3_ld_pagalbine_medziaga.txt:duplex:1
+3. WLAN_teorija_ir_praktika.txt:aprašo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:148]:1
+3. WLAN_teorija_ir_praktika.txt:Gbps:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kurių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:komutatoriai:1
+1.1ld_Sabuliene-Baguse.txt:Proxy:1
+1_KT_Samprata, pagrindines_savokos (4).txt:adreso;:1
+3. WLAN_teorija_ir_praktika.txt:(kodas:1
+3. WLAN_teorija_ir_praktika.txt:būna:1
+3_ld_pagalbine_medziaga.txt:kartotuvai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sist:1
+3_ld_pagalbine_medziaga.txt:pora:1
+1.1ld_Sabuliene-Baguse.txt:99:1
+3. WLAN_teorija_ir_praktika.txt:potinklių:1
+3. WLAN_teorija_ir_praktika.txt:(WLAN:1
+3. WLAN_teorija_ir_praktika.txt:Tacacs:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nebereikia:1
+3. WLAN_teorija_ir_praktika.txt:pirmos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Configuration:1
+3. WLAN_teorija_ir_praktika.txt:skiriasi:1
+3_ld_pagalbine_medziaga.txt:viena:1
+1_KT_Samprata, pagrindines_savokos (4).txt:internete:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Computer:1
+3. WLAN_teorija_ir_praktika.txt:pakeisti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Ring:1
+3_ld_pagalbine_medziaga.txt:(ToS):1
+1_KT_Samprata, pagrindines_savokos (4).txt:protokolai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:susiderina:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Local:1
+1_KT_Samprata, pagrindines_savokos (4).txt:DSL;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:žymiai:1
+3_ld_pagalbine_medziaga.txt:bus:1
+3. WLAN_teorija_ir_praktika.txt:Point'ai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:griežtai:1
+fileB2.txt:augue:1
+3. WLAN_teorija_ir_praktika.txt:1/24:1
+3. WLAN_teorija_ir_praktika.txt:identifikatorių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rūšis:1
+1.5ld.txt:188:1
+1_KT_Samprata, pagrindines_savokos (4).txt:darb:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pedavimą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vadinamas:1
+3. WLAN_teorija_ir_praktika.txt:Wireles:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siunč:1
+3_ld_pagalbine_medziaga.txt:Maršrutizatorius:1
+3_ld_pagalbine_medziaga.txt:mait:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:adapter:1
+3. WLAN_teorija_ir_praktika.txt:UPT:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuteriams:1
+3. WLAN_teorija_ir_praktika.txt:	WPA:1
+1_KT_Samprata, pagrindines_savokos (4).txt:techninė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:serveriu:1
+3. WLAN_teorija_ir_praktika.txt:Infrastruktūra:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sąvokos:1
+3_ld_pagalbine_medziaga.txt:Type:1
+1_KT_Samprata, pagrindines_savokos (4).txt:todėl:1
+3. WLAN_teorija_ir_praktika.txt:technol:1
+3. WLAN_teorija_ir_praktika.txt:(galima:1
+1_KT_Samprata, pagrindines_savokos (4).txt:šie:1
+fileB1.txt:�inom:1
+3. WLAN_teorija_ir_praktika.txt:antrasantras):1
+3_ld_pagalbine_medziaga.txt:kab:1
+3. WLAN_teorija_ir_praktika.txt:tokie:1
+fileB2.txt:pharetra:1
+3. WLAN_teorija_ir_praktika.txt:kokie:1
+1.5ld.txt:12:1
+fileB2.txt:scelerisque:1
+3_ld_pagalbine_medziaga.txt:(10):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Domenų/kompiuterių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:2ž:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kelis:1
+3_ld_pagalbine_medziaga.txt:spintą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:aprašantis:1
+fileB2.txt:felis:1
+3. WLAN_teorija_ir_praktika.txt:(iki:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	listen:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	time:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laikydamiesi:1
+1.5ld.txt:49786:1
+3. WLAN_teorija_ir_praktika.txt:užtikrina:1
+1_KT_Samprata, pagrindines_savokos (4).txt:identifikuojama:1
+3_ld_pagalbine_medziaga.txt:kokybę:1
+3. WLAN_teorija_ir_praktika.txt:kodavimas/SSID/:1
+1_KT_Samprata, pagrindines_savokos (4).txt:maršrutizat:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tiekėjo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:7:1
+3_ld_pagalbine_medziaga.txt:(rack:1
+1_KT_Samprata, pagrindines_savokos (4).txt:gavėjo;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skirtos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	syn:1
+3. WLAN_teorija_ir_praktika.txt:(variniai:1
+1.5ld.txt:5050:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pasiekiamumo:1
+3_ld_pagalbine_medziaga.txt:vėlinimas:1
+3. WLAN_teorija_ir_praktika.txt:	identifikavimo:1
+1.1ld_Sabuliene-Baguse.txt:Windows:1
+1.1ld_Sabuliene-Baguse.txt:Primary:1
+3_ld_pagalbine_medziaga.txt:		TCP/UDP:1
+3. WLAN_teorija_ir_praktika.txt:greitas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(strumpinta):1
+3_ld_pagalbine_medziaga.txt:algoritmai:1
+3. WLAN_teorija_ir_praktika.txt:PC:1
+1_KT_Samprata, pagrindines_savokos (4).txt:perduodami:1
+1_KT_Samprata, pagrindines_savokos (4).txt:List:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Lost:1
+3. WLAN_teorija_ir_praktika.txt:subnet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:443:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Aktyvių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:teik:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kanalas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:apibrėžianti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(patikrinimui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:p:1
+1_KT_Samprata, pagrindines_savokos (4).txt:neatsako:1
+3. WLAN_teorija_ir_praktika.txt:papiltus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:suteikti:1
+fileB2.txt:ullamcorper:1
+3. WLAN_teorija_ir_praktika.txt:vietinio:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pakomentuoti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:172:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kartotuvas/šakotuvas/koncentratorius:1
+1.1ld_Sabuliene-Baguse.txt:Realtek:1
+3_ld_pagalbine_medziaga.txt:kt:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Primary:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prikl:1
+3_ld_pagalbine_medziaga.txt:užtikrina:1
+3. WLAN_teorija_ir_praktika.txt:požymis:1
+3. WLAN_teorija_ir_praktika.txt:dalinami:1
+3. WLAN_teorija_ir_praktika.txt:skaiciai):1
+3_ld_pagalbine_medziaga.txt:(HUB):1
+1_KT_Samprata, pagrindines_savokos (4).txt:projektų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atid:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tiltas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:simb:1
+1_KT_Samprata, pagrindines_savokos (4).txt:identifikavimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:daugiau:1
+3. WLAN_teorija_ir_praktika.txt:mokamas:1
+3_ld_pagalbine_medziaga.txt:linija:1
+3. WLAN_teorija_ir_praktika.txt:belaidžiam:1
+1_KT_Samprata, pagrindines_savokos (4).txt:intern:1
+1.1ld_Sabuliene-Baguse.txt:bd3c:1
+3_ld_pagalbine_medziaga.txt:sparta*kiekis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:naršau:1
+3_ld_pagalbine_medziaga.txt:(laidai):1
+1_KT_Samprata, pagrindines_savokos (4).txt:(pas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:reikės:1
+3_ld_pagalbine_medziaga.txt:buvimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:magzai:1
+3_ld_pagalbine_medziaga.txt:paketus;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:procesai:1
+3. WLAN_teorija_ir_praktika.txt:rėtis:1
+3_ld_pagalbine_medziaga.txt:perduoti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sek:1
+1_KT_Samprata, pagrindines_savokos (4).txt:šalį:1
+3. WLAN_teorija_ir_praktika.txt:)/600Mbps(teorinis:1
+3_ld_pagalbine_medziaga.txt:naudojamas:1
+3_ld_pagalbine_medziaga.txt:	GigabitEthernet(1000):1
+3. WLAN_teorija_ir_praktika.txt:įvesti:1
+3. WLAN_teorija_ir_praktika.txt:tesktas:1
+3_ld_pagalbine_medziaga.txt:11g:1
+3_ld_pagalbine_medziaga.txt:4/5:1
+1_KT_Samprata, pagrindines_savokos (4).txt:dalys):1
+1_KT_Samprata, pagrindines_savokos (4).txt:16B:1
+3_ld_pagalbine_medziaga.txt:(proc:1
+3_ld_pagalbine_medziaga.txt:1000x8=8000=8mbps:1
+1_KT_Samprata, pagrindines_savokos (4).txt:3]:1
+3. WLAN_teorija_ir_praktika.txt:įvertinti:1
+3_ld_pagalbine_medziaga.txt:autmatiškai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:naudojant:1
+3. WLAN_teorija_ir_praktika.txt:neužmiršti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:with:1
+1_KT_Samprata, pagrindines_savokos (4).txt:16B):1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Internet:1
+3_ld_pagalbine_medziaga.txt:Autonegotiation:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Pagalba:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skačių:1
+3_ld_pagalbine_medziaga.txt:SDSL/ADSL:1
+1_KT_Samprata, pagrindines_savokos (4).txt:rašyti:1
+3. WLAN_teorija_ir_praktika.txt:paplitus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:trip:1
+3_ld_pagalbine_medziaga.txt:Switch;:1
+3_ld_pagalbine_medziaga.txt:(paprastas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vartotojų:1
+3. WLAN_teorija_ir_praktika.txt:įjungti:1
+3_ld_pagalbine_medziaga.txt:perdavimą:1
+3_ld_pagalbine_medziaga.txt:darbo:1
+3_ld_pagalbine_medziaga.txt:buffer:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išskyrus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:registruoja:1
+3. WLAN_teorija_ir_praktika.txt:sprendimas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	com:1
+fileB1.txt:geras:1
+3_ld_pagalbine_medziaga.txt:paketo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	143:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	443:1
+3. WLAN_teorija_ir_praktika.txt:nešiojamus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:visus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:[82:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kuri:1
+3. WLAN_teorija_ir_praktika.txt:interneto:1
+3. WLAN_teorija_ir_praktika.txt:iki:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(switch):1
+1_KT_Samprata, pagrindines_savokos (4).txt:komand:1
+3. WLAN_teorija_ir_praktika.txt:JAV):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Multicast:1
+1_KT_Samprata, pagrindines_savokos (4).txt:raidėmis:1
+3_ld_pagalbine_medziaga.txt:būdas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:TCP/IP:1
+1.1ld_Sabuliene-Baguse.txt:9560:1
+1_KT_Samprata, pagrindines_savokos (4).txt:22:1
+3. WLAN_teorija_ir_praktika.txt:(Omnitel:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(default):1
+3. WLAN_teorija_ir_praktika.txt:du:1
+3. WLAN_teorija_ir_praktika.txt:pasirinksime:1
+3. WLAN_teorija_ir_praktika.txt:pat:1
+1_KT_Samprata, pagrindines_savokos (4).txt:ident:1
+1.5ld.txt:49705:1
+3_ld_pagalbine_medziaga.txt:Simplex:1
+3. WLAN_teorija_ir_praktika.txt:vardą:1
+3. WLAN_teorija_ir_praktika.txt:geresnis;:1
+3_ld_pagalbine_medziaga.txt:Pvz:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Search:1
+1_KT_Samprata, pagrindines_savokos (4).txt:maršruto:1
+3_ld_pagalbine_medziaga.txt:galutinė:1
+3_ld_pagalbine_medziaga.txt:(Token:1
+3_ld_pagalbine_medziaga.txt:CLI:1
+1_KT_Samprata, pagrindines_savokos (4).txt:44:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vidaus:1
+3. WLAN_teorija_ir_praktika.txt:ac:1
+1_KT_Samprata, pagrindines_savokos (4).txt:keisti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:struktūrą:1
+3_ld_pagalbine_medziaga.txt:pirmesnis:1
+3_ld_pagalbine_medziaga.txt:10/100/1000:1
+3. WLAN_teorija_ir_praktika.txt:ryšys):1
+1_KT_Samprata, pagrindines_savokos (4).txt:tekstinė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įrašo:1
+3_ld_pagalbine_medziaga.txt:	(belaidis):1
+3_ld_pagalbine_medziaga.txt:IGRP:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laukiu:1
+3. WLAN_teorija_ir_praktika.txt:naud:1
+3. WLAN_teorija_ir_praktika.txt:Belaidžiai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:palaikymas:1
+3_ld_pagalbine_medziaga.txt:tokia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(JAV:1
+1.1ld_Sabuliene-Baguse.txt:113(Preferred):1
+fileB1.txt:�odis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kiekv:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siuntusį;:1
+1.5ld.txt:5228:1
+3. WLAN_teorija_ir_praktika.txt:gateway;:1
+fileB2.txt:ultrices:1
+1.1ld_Sabuliene-Baguse.txt:c67e:1
+3. WLAN_teorija_ir_praktika.txt:veikia:1
+3. WLAN_teorija_ir_praktika.txt:pažymėti:1
+1.5ld.txt:74:1
+3_ld_pagalbine_medziaga.txt:neš:1
+1_KT_Samprata, pagrindines_savokos (4).txt:time=22ms:1
+3_ld_pagalbine_medziaga.txt:EDGE:1
+1.1ld_Sabuliene-Baguse.txt:GbE:1
+3. WLAN_teorija_ir_praktika.txt:(juodas:1
+3. WLAN_teorija_ir_praktika.txt:prijungus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Autoconfiguration:1
+3. WLAN_teorija_ir_praktika.txt:kodas):1
+1_KT_Samprata, pagrindines_savokos (4).txt:(ports):1
+3. WLAN_teorija_ir_praktika.txt:(ryušys:1
+3. WLAN_teorija_ir_praktika.txt:ši:1
+fileB2.txt:maximus:1
+3_ld_pagalbine_medziaga.txt:(ACL/Firewall/kita:1
+3_ld_pagalbine_medziaga.txt:nieko:1
+1_KT_Samprata, pagrindines_savokos (4).txt:gamintojas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(port);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:operac:1
+1_KT_Samprata, pagrindines_savokos (4).txt:manęs:1
+fileB1.txt:ne:1
+3_ld_pagalbine_medziaga.txt:Vietinės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kažkas:1
+3_ld_pagalbine_medziaga.txt:(Half:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaidomas:1
+3. WLAN_teorija_ir_praktika.txt:Setings:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kompiuteryje:1
+3_ld_pagalbine_medziaga.txt:neleis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:mokymo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	0:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaidymas:1
+3_ld_pagalbine_medziaga.txt:(10base:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(kompiuterio:1
+3. WLAN_teorija_ir_praktika.txt:l:1
+fileB2.txt:neque:1
+1_KT_Samprata, pagrindines_savokos (4).txt:formavimui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atkarpų):1
+1_KT_Samprata, pagrindines_savokos (4).txt:failo_pavadinimas:1
+3. WLAN_teorija_ir_praktika.txt:SAVE:1
+1_KT_Samprata, pagrindines_savokos (4).txt:int:1
+1_KT_Samprata, pagrindines_savokos (4).txt:bankas):1
+3_ld_pagalbine_medziaga.txt:lokalius:1
+fileB2.txt:commodo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:jos:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tarp:1
+3_ld_pagalbine_medziaga.txt:jung:1
+1_KT_Samprata, pagrindines_savokos (4).txt:komutatorių:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išsiuntimui):1
+1_KT_Samprata, pagrindines_savokos (4).txt:sinchronizavimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paketus:1
+1_KT_Samprata, pagrindines_savokos (4).txt:txt:1
+3. WLAN_teorija_ir_praktika.txt:teiks:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nuomuojamas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(A:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vartot:1
+3_ld_pagalbine_medziaga.txt:keičia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:vis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siekiant:1
+1_KT_Samprata, pagrindines_savokos (4).txt:admin:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Pagrindinės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:moka:1
+fileB2.txt:magna:1
+3_ld_pagalbine_medziaga.txt:automatiškai:1
+3_ld_pagalbine_medziaga.txt:naudojama:1
+1_KT_Samprata, pagrindines_savokos (4).txt:CTRL+C)	:1
+3_ld_pagalbine_medziaga.txt:(renkasi:1
+3_ld_pagalbine_medziaga.txt:(4x100:1
+3_ld_pagalbine_medziaga.txt:lygmenis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:noriu:1
+3_ld_pagalbine_medziaga.txt:Komutatoriai:1
+1.1ld_Sabuliene-Baguse.txt:I219:1
+3_ld_pagalbine_medziaga.txt:užtikrinimo/filtravimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pas:1
+3_ld_pagalbine_medziaga.txt:netowrk:1
+1.1ld_Sabuliene-Baguse.txt:V:1
+1.5ld.txt:130:1
+3_ld_pagalbine_medziaga.txt:perduodama:1
+3_ld_pagalbine_medziaga.txt:užtikriną:1
+1_KT_Samprata, pagrindines_savokos (4).txt:surinkti:1
+3. WLAN_teorija_ir_praktika.txt:skirta:1
+3_ld_pagalbine_medziaga.txt:internetą:1
+3_ld_pagalbine_medziaga.txt:saugi;:1
+1_KT_Samprata, pagrindines_savokos (4).txt:domenu(jei:1
+1.5ld.txt:49675:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tinklalių:1
+3. WLAN_teorija_ir_praktika.txt:(nenaudojant:1
+fileB2.txt:feugiat:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tikri:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(DHCP:1
+3. WLAN_teorija_ir_praktika.txt:visus:1
+3. WLAN_teorija_ir_praktika.txt:išjungti:1
+3_ld_pagalbine_medziaga.txt:TCP/UDP:1
+3_ld_pagalbine_medziaga.txt:(srauto):1
+1_KT_Samprata, pagrindines_savokos (4).txt:užrašymo:1
+1.5ld.txt:75:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(sustabdymui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:televiziją:1
+3_ld_pagalbine_medziaga.txt:Half:1
+1_KT_Samprata, pagrindines_savokos (4).txt:čia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:filtravimui:1
+3. WLAN_teorija_ir_praktika.txt:(on):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Approximate:1
+3_ld_pagalbine_medziaga.txt:magistralės:1
+3_ld_pagalbine_medziaga.txt:siunčiant:1
+1_KT_Samprata, pagrindines_savokos (4).txt:geriausia:1
+3_ld_pagalbine_medziaga.txt:geriau:1
+3. WLAN_teorija_ir_praktika.txt:(Dlink:1
+fileB2.txt:adipiscing:1
+3. WLAN_teorija_ir_praktika.txt:(SSID):1
+1_KT_Samprata, pagrindines_savokos (4).txt:	us:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(32:1
+3_ld_pagalbine_medziaga.txt:Pateikto:1
+1_KT_Samprata, pagrindines_savokos (4).txt:baitą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:reikšmės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:complete:1
+1_KT_Samprata, pagrindines_savokos (4).txt:*	:1
+fileB2.txt:Fusce:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pats);:1
+1_KT_Samprata, pagrindines_savokos (4).txt:maršrutas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:komponentai:1
+3_ld_pagalbine_medziaga.txt:3x:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Server:1
+1_KT_Samprata, pagrindines_savokos (4).txt:HUB):1
+1_KT_Samprata, pagrindines_savokos (4).txt:pateikia:1
+1_KT_Samprata, pagrindines_savokos (4).txt:in:1
+1_KT_Samprata, pagrindines_savokos (4).txt:patikrinimas:1
+3_ld_pagalbine_medziaga.txt:spartą:1
+3. WLAN_teorija_ir_praktika.txt:slaptažodis:1
+1.1ld_Sabuliene-Baguse.txt:Server:1
+3. WLAN_teorija_ir_praktika.txt:koduotę:1
+3. WLAN_teorija_ir_praktika.txt:kompiuterį:1
+1.5ld.txt:Foreign:1
+1_KT_Samprata, pagrindines_savokos (4).txt:sąvybes:1
+1.5ld.txt:5040:1
+1_KT_Samprata, pagrindines_savokos (4).txt:domenas(tekstinis:1
+3. WLAN_teorija_ir_praktika.txt:numatyta:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	net:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kokiam:1
+1_KT_Samprata, pagrindines_savokos (4).txt:komunikavimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:laikų:1
+1_KT_Samprata, pagrindines_savokos (4).txt:protkolas:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(susieta:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Peržiūrai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:paversti:1
+1_KT_Samprata, pagrindines_savokos (4).txt:reikia:1
+3. WLAN_teorija_ir_praktika.txt:prijungimui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tekst:1
+1_KT_Samprata, pagrindines_savokos (4).txt:over:1
+3. WLAN_teorija_ir_praktika.txt:11b:1
+3_ld_pagalbine_medziaga.txt:10/100/1000M:1
+3_ld_pagalbine_medziaga.txt:(switch):1
+fileB2.txt:sagittis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:atsisiuntimui):1
+1_KT_Samprata, pagrindines_savokos (4).txt:maž:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kito:1
+3_ld_pagalbine_medziaga.txt:tinklus:1
+3_ld_pagalbine_medziaga.txt:pasl:1
+1.1ld_Sabuliene-Baguse.txt:DE:1
+1_KT_Samprata, pagrindines_savokos (4).txt:versijos:1
+3. WLAN_teorija_ir_praktika.txt:seka:1
+1_KT_Samprata, pagrindines_savokos (4).txt:Telnet/SSH:1
+fileB2.txt:gravida:1
+1_KT_Samprata, pagrindines_savokos (4).txt:tiems:1
+3. WLAN_teorija_ir_praktika.txt:darbinį:1
+3. WLAN_teorija_ir_praktika.txt:Lietuvoje)/SDSL(sinchr:1
+3. WLAN_teorija_ir_praktika.txt:(techninė/programos):1
+3_ld_pagalbine_medziaga.txt:greitis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:	2:1
+1.1ld_Sabuliene-Baguse.txt:Toma:1
+3. WLAN_teorija_ir_praktika.txt:bet:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Domain:1
+3. WLAN_teorija_ir_praktika.txt:(JAV):1
+3. WLAN_teorija_ir_praktika.txt:(palydovinės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:53:1
+1.5ld.txt:85:1
+3. WLAN_teorija_ir_praktika.txt:greitis);:1
+3. WLAN_teorija_ir_praktika.txt:karto:1
+1.5ld.txt:42050:1
+3. WLAN_teorija_ir_praktika.txt:naudotą:1
+3. WLAN_teorija_ir_praktika.txt:laudą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:standarto:1
+3. WLAN_teorija_ir_praktika.txt:15:1
+1_KT_Samprata, pagrindines_savokos (4).txt:prisijungimo:1
+3_ld_pagalbine_medziaga.txt:Maršrutizavimo:1
+1.5ld.txt:18:1
+1.5ld.txt:50636:1
+1_KT_Samprata, pagrindines_savokos (4).txt:specializuotos:1
+3. WLAN_teorija_ir_praktika.txt:paprastas:1
+3_ld_pagalbine_medziaga.txt:valdomas(OSI:1
+1_KT_Samprata, pagrindines_savokos (4).txt:naudojamų:1
+1.1ld_Sabuliene-Baguse.txt:Gateway:1
+3_ld_pagalbine_medziaga.txt:prioritetus:1
+3. WLAN_teorija_ir_praktika.txt:Kabelinės:1
+1_KT_Samprata, pagrindines_savokos (4).txt:amerikos:1
+3. WLAN_teorija_ir_praktika.txt:(pagal:1
+3. WLAN_teorija_ir_praktika.txt:display:1
+1.5ld.txt:49669:1
+3_ld_pagalbine_medziaga.txt:bevielis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:retai:1
+1_KT_Samprata, pagrindines_savokos (4).txt:pagrindinį:1
+fileB2.txt:ipsum:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Gmail:1
+3_ld_pagalbine_medziaga.txt:(VPN);:1
+1.5ld.txt:55363:1
+1_KT_Samprata, pagrindines_savokos (4).txt:siūst:1
+1_KT_Samprata, pagrindines_savokos (4).txt:trasporto:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaidymui:1
+3. WLAN_teorija_ir_praktika.txt:siūlomi:1
+fileB2.txt:viverra:1
+fileB2.txt:nisi:1
+1_KT_Samprata, pagrindines_savokos (4).txt:procesą:1
+1_KT_Samprata, pagrindines_savokos (4).txt:kom:1
+3. WLAN_teorija_ir_praktika.txt:serveriai:1
+3_ld_pagalbine_medziaga.txt:Topologijos:1
+3. WLAN_teorija_ir_praktika.txt:nurodys:1
+3. WLAN_teorija_ir_praktika.txt:(belaidis:1
+1_KT_Samprata, pagrindines_savokos (4).txt:įjungimo:1
+1_KT_Samprata, pagrindines_savokos (4).txt:nuomuojami:1
+1_KT_Samprata, pagrindines_savokos (4).txt:išsiuntimui:1
+3_ld_pagalbine_medziaga.txt:11av:1
+3. WLAN_teorija_ir_praktika.txt:skirt:1
+fileB2.txt:vitae:1
+3. WLAN_teorija_ir_praktika.txt:tiekėjai):1
+1_KT_Samprata, pagrindines_savokos (4).txt:(vienas:1
+fileB2.txt:Quisque:1
+1_KT_Samprata, pagrindines_savokos (4).txt:identifikavimui:1
+1_KT_Samprata, pagrindines_savokos (4).txt:hops:1
+fileB2.txt:elementum:1
+3_ld_pagalbine_medziaga.txt:pusė:1
+3. WLAN_teorija_ir_praktika.txt:(DHCP):1
+1_KT_Samprata, pagrindines_savokos (4).txt:usžsisakė:1
+1_KT_Samprata, pagrindines_savokos (4).txt:(Outlook:1
+3_ld_pagalbine_medziaga.txt:adresų;:1
+3_ld_pagalbine_medziaga.txt:RISC/CISC):1
+1_KT_Samprata, pagrindines_savokos (4).txt:Braodcast:1
+3_ld_pagalbine_medziaga.txt:saugą:1
+1.5ld.txt:238:1
+1.1ld_Sabuliene-Baguse.txt:Network:1
+1.5ld.txt:50627:1
+1_KT_Samprata, pagrindines_savokos (4).txt:skaidomi:1
+1.5ld.txt:Active:1

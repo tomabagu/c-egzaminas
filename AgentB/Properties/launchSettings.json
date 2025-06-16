@@ -1,7 +1,8 @@
 {
   "profiles": {
     "AgentB": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "mano2 C:/egzaminui/B"
     }
   }
 }

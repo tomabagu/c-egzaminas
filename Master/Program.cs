@@ -44,6 +44,8 @@ namespace Master
             {
                 Console.WriteLine(entry.Key + ":" + entry.Value);
             }
+
+            File.WriteAllLines("../../../word_counts.txt", orderedWordCounts.Select(kvp => $"{kvp.Key}:{kvp.Value}"));
             Console.ReadKey();
 
         }

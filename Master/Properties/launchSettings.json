@@ -1,7 +1,8 @@
 {
   "profiles": {
     "Master": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "mano1\r\nmano2"
     }
   }
 }
