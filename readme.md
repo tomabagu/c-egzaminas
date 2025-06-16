@@ -6,3 +6,4 @@ V1.4 pridėti papildomi simboliai žodžių atskyrimui
 V1.5 pridėtas rikiavimas prieš atvaizduojant žodžių dažnius Master projekte
 V1.6 argumentų perdavimas agentui ir master projektui paleidimo metu. Pakoreguotas rikiavimas
 V1.7 pakeisti .txt failų pavadinimai, sukauptą žodžių dažnių statiską išvedus į konsolę, išsaugoma į failą "word_counts.txt"
+V1.8 AgentB filePath kintamojo naudojimo atnaujinimas, komentarų pakeitimas

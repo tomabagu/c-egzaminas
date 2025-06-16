@@ -65,7 +65,7 @@ namespace AgentB
         static void ReadFiles()
         {
             // iteruojame per visus .txt failus kataloge "files/"
-            foreach (var file in Directory.GetFiles("files/", "*.txt"))
+            foreach (var file in Directory.GetFiles(filePath, "*.txt"))
             {
                 // sukuriame žodžių dažnių žodyną, kuris bus naudojamas žodžių skaičiavimui, su parametru StringComparer.OrdinalIgnoreCase, kad būtų ignoruojama didžiųjų ir mažųjų raidžių skirtumas
                 var wordCounts = new Dictionary<string, int>(StringComparer.OrdinalIgnoreCase);
@@ -74,7 +74,7 @@ namespace AgentB
 
                 foreach (var line in lines)
                 {
-                    // padalijame eilutę į žodžius atskiriant simbolius, StringSplitOptions.RemoveEmptyEntries pašalina tuščius žodžius
+                    // padalijame eilutę į žodžius atskiriant simbolius, StringSplitOptions.RemoveEmptyEntries pašalina tarpus, likusius po padalijimo
                     var words = line.Split(new[] { ' ', '-', '!', '.', ':', '?', ',', '"' }, StringSplitOptions.RemoveEmptyEntries);
                     foreach (var word in words)
                     {

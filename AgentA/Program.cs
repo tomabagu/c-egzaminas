@@ -74,7 +74,7 @@ namespace AgentA
 
                 foreach (var line in lines)
                 {
-                    // padalijame eilutę į žodžius atskiriant simbolius, StringSplitOptions.RemoveEmptyEntries pašalina tuščius žodžius
+                    // padalijame eilutę į žodžius atskiriant simbolius, StringSplitOptions.RemoveEmptyEntries pašalina tarpus, likusius po padalijimo
                     var words = line.Split(new[] { ' ', '-', '!', '.', ':', '?', ',', '"' }, StringSplitOptions.RemoveEmptyEntries);
                     foreach (var word in words)
                     {
